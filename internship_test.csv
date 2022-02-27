@@ -1,0 +1,795 @@
+Index,image,company,city,season,year,monthlySalary,benefits,applyLink
+0,https://logo.clearbit.com/HudsonRiverTrading.com,Hudson River Trading,New York City,Summer,2022,16669,"Corporate or $6,000 stipend housing, company provided transportation, free breakfast and lunch, snacks throughout the office; dinner stipend if working late; outdoor terrace and game room (pool, ping pong, board games, video games, etc.); $10,000 signing bonus (not for all offers), office view from 76th floor, gym, etc.",https://www.hudsonrivertrading.com/careers/?ref=levels.fyi
+1,https://i.imgur.com/WinSVIN.png,Jane Street,New York City,Summer,2022,16640,"$2,100 / mo housing, $10,000 signing bonus, free food, swag.",https://www.janestreet.com/join-jane-street/?ref=levels.fyi#open-positions
+2,https://logo.clearbit.com/Optiver.com,Optiver,Chicago,Summer,2022,15709,"Corporate housing, $15,000 signing bonus, paid flights, free breakfast and lunch.",https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship&ref=levels.fyi
+3,https://fiverings.com/wp-content/themes/five-rings/img/FiveRings-logo.svg,Five Rings,New York City,Summer,2022,15167,"$7,500 sign on ",https://fiverings.avature.net/careers?ref=levels.fyi
+4,https://logo.clearbit.com/akunacapital.com,Akuna Capital,Chicago,Summer,2022,14583,"Corporate housing, $5,000 performance bonus, Company Provided transportation, Snacks + In-House Barista",https://akunacapital.com/careers?ref=levels.fyi#careers
+5,https://i.imgur.com/fhsQVd8.png,Citadel,Chicago,Summer,2022,14581,"Corporate housing, Company Provided transportation, Breakfast/Lunch/Dinner all provided. Daily Uber stipend for to/from office. Monthly transportation stipend.",https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Intern&ref=levels.fyi
+6,https://logo.clearbit.com/deshaw.com,D.E. Shaw,New York City,Summer,2022,14300,"Corporate or $5,000 housing, Overtime (every hour above 40) is paid at 1.5x default rate",https://www.deshaw.com/careers?ref=levels.fyi
+7,https://logo.clearbit.com/JumpTrading.com,Jump Trading,Chicago,Summer,2022,13000,"Corporate housing, Company Provided transportation, Free foods (breakfast, lunch)",https://www.jumptrading.com/jobs.html?ref=levels.fyi
+8,https://www.schonfeld.com/static/media/schonfeld-logo.5f3d464e.svg,Schonfeld,San Francisco,Summer,2022,13000,"$10,000 housing, PTO, 401k, Insurance",https://boards.greenhouse.io/schonfeld?ref=levels.fyi
+9,https://logo.clearbit.com/netflix.com,Netflix,Los Gatos,Summer,2022,12827,"Corporate housing, Free/paid for Shuttle, Uber, Lyft, etc. Corporate housing or one time post-tax stipend. All full-time employee benefits.  ",https://jobs.netflix.com/search?q=intern&ref=levels.fyi
+10,https://logo.clearbit.com/drw.com,DRW,Chicago,Summer,2022,12636,"Corporate housing, round trip airfare",https://drw.com/careers/listings/?language=English&ref=levels.fyi
+11,https://logo.clearbit.com/imc.com,IMC Trading,Chicago,Summer,2022,12501,"Corporate housing, Company Provided transportation, $20,000 Signing bonus, breakfast & lunch.",https://careers.imc.com/us/en/c/internships-jobs?ref=levels.fyi
+12,https://logo.clearbit.com/Nvidia.com,Nvidia,Santa Clara,Summer,2022,12480,"PhD Internship. $550 / week housing, Stock discount",https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/3/refreshFacet/318c8bb6f553100021d223d9780d30be?source=jobboardlinkedin&ref=levels.fyi
+13,https://i.imgur.com/vIjfPo6.png,OpenSea,New York City,Summer,2022,12279,"$15,000 lump sum housing, 1000 / mo transportation",https://jobs.lever.co/OpenSea?ref=levels.fyi
+14,https://logo.clearbit.com/TwoSigma.com,Two Sigma,New York City,Summer,2022,12133,"Corporate + $5,000 relocation bonus housing, $7,500 or $8,500 performance bonus at the end, $5,000 donation match, $10,000 sign-on bonus.",https://careers.twosigma.com/careers/SearchJobs/intern%20software?ref=levels.fyi
+15,https://i.imgur.com/9b4jtkA.png,Nuro,Mountain View,Summer,2022,11917,"$2,500 per month housing, $3,250 performance based bonus,  complementary meals & snacks.",https://www.nuro.ai/careers?ref=levels.fyi
+16,https://logo.clearbit.com/Quantcast.com,Quantcast,San Francisco,Summer,2022,11787,"$4,000 one time housing stipend.",https://www.quantcast.com/careers/openings/?ref=levels.fyi#department%3D__team%3D__location%3D__commitment%3DIntern__null%3D__null%3D__null%3D__null%3D
+17,https://logo.clearbit.com/Rippling.com,Rippling,San Francisco,Summer,2022,11787,"$2,000 / mo housing, Office Meals",https://www.rippling.com/careers?ref=levels.fyi#openings
+18,https://i.imgur.com/siNIOwH.png,Millennium Management,New York City,Summer,2022,11613,"$2,500 housing, Company Provided transportation, overtime at $94 per hour.",https://www.mlp.com/job-listings/information-technology/?ref=levels.fyi
+19,https://i.imgur.com/N4pfdnB.png,Asana,San Francisco,Summer,2022,11267,"Gym stipend, free food, no housing stipend but help in finding housing. Company provided transportation.",https://boards.greenhouse.io/earlycareerprograms?ref=levels.fyi
+20,https://logo.clearbit.com/Faire.com,Faire,Waterloo,Fall,2023,11267,"No housing, $100 per month transportation, In Office Meals, Co-op Stock Options",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+21,https://logo.clearbit.com/Kensho.com,Kensho,Cambridge,Summer,2022,11267,,https://www.kensho.com/careers?ref=levels.fyi
+22,https://logo.clearbit.com/Moveworks.com,Moveworks,Mountain View,Summer,2022,11267,Provided transportation and relocation,https://www.moveworks.com/careers?ref=levels.fyi
+23,https://logo.clearbit.com/Quora.com,Quora,Mountain View,Summer,2022,11267,,https://boards.greenhouse.io/quora/?ref=levels.fyi
+24,https://logo.clearbit.com/VirtuFinancial.com,Virtu Financial,New York City,Summer,2022,11267,"$2,000 housing, Company Provided transportation",https://boards.greenhouse.io/virtu?ref=levels.fyi
+25,https://logo.clearbit.com/Dfinity.com,Dfinity,CA,Summer,2022,11000,"$1,000 for WFH setup ",https://dfinity.org/careers/?ref=levels.fyi
+26,https://imgur.com/Lz1pvCe.png,78 Capital,New York City,Summer,2023,10833,Corporate housing,http://www.seveneightcapital.com/?ref=levels.fyi
+27,https://logo.clearbit.com/EmbarkTrucks.com,Embark Trucks,San Franciso,Spring,2022,10833,,https://embarktrucks.com/careers.html?ref=levels.fyi#openings
+28,https://logo.clearbit.com/Roblox.com,Roblox,San Mateo,Summer,2022,10747,"$7,000 lump sum housing stipend if in person; $1,000 if virtual housing. Free catered breakfast, lunch, unlimited snacks.",https://jobs.roblox.com/careers?pid=137446981567&seniority=Intern&query=Roblox&domain=roblox.com&triggerGoButton=false&ref=levels.fyi
+29,https://i.imgur.com/gEUXJK9.png,Systematic,Aarhus,Fall,2023,10747,,https://systematic.com/en-gb/careers/?ref=levels.fyi
+30,https://logo.clearbit.com/RibbonHome.com,Ribbon Home,New York City,Summer,2022,10573,"$1,500 housing",https://www.ribbonhome.com/careers?ref=levels.fyi#jobsContainer
+31,https://logo.clearbit.com/twitch.com,Twitch,San Francisco,Summer,2022,10573,"$2,425  Housing Stipend (provided if in person)",https://boards.greenhouse.io/twitch?ref=levels.fyi#app
+32,https://logo.clearbit.com/Yugabyte.com,Yugabyte,Sunnyvale,Summer,2022,10501,"$1,000 housing, other perks: Doordash every Wednesday ",https://www.yugabyte.com/careers/?ref=levels.fyi
+33,https://logo.clearbit.com/Benchling.com,Benchling,San Francisco,Summer,2022,10400,"$1,000 / mo housing + $1,000 stipend housing, $100 / mo for wellness, health, vision, dental insurance, lunch + dinner",https://www.benchling.com/careers/?ref=levels.fyi#openings
+34,https://logo.clearbit.com/Bill.com,Bill.com,San Jose,Summer,2022,10400,"$5,000 lumpsum stipend",https://jobs.lever.co/bill?commitment=Intern&ref=levels.fyi
+35,https://logo.clearbit.com/Cloudera.com,Cloudera,Santa Clara,Summer,2022,10400,"$1,000 housing, $500 WFH Benifit",https://www.cloudera.com/careers/teams/university-recruiting.html?ref=levels.fyi
+36,https://logo.clearbit.com/Etsy.com,Etsy,Brooklyn,Summer,2022,10400,"Housing: Yes $5,000 Monthly. ",https://careers.etsy.com/global/en/search-results?m=3&keywords=intern&ref=levels.fyi
+37,https://i.imgur.com/PI4nBLw.png,LinkedIn,Sunnyvale,Summer,2022,10400,"Corporate housing, Company Provided transportation, $500 misc., airfare, $6,000 for housing if remote. ",https://www.linkedin.com/jobs/search/?f_C=1337&geoId=92000000&keywords=intern&ref=levels.fyi
+38,https://logo.clearbit.com/Ramp.com,Ramp,New York City,Summer,2022,10400,"$5,000 housing, Relocation, Wellness, Health Insurance",https://ramp.com/careers?ref=levels.fyi
+39,https://logo.clearbit.com/Anaplan.com,Anaplan,San Francisco,Summer,2022,10227,"$3,000 housing. ",https://careers.anaplan.com/job-listing/?search=Intern&ref=levels.fyi
+40,https://imgur.com/ZRTf3Wg.png,Better.com,New York City,Summer,2022,10227,"$7,500 lump sum stipend for housing and relocation",https://boards.greenhouse.io/better?ref=levels.fyi#.WSb_UBMrI6g
+41,https://logo.clearbit.com/riotgames.com,Riot Games,Los Angeles,Summer,2022,10168,"$4,500 WFH lump sum, RP, VP, 1 week paid trip to LA office",https://www.riotgames.com/en/university-programs?ref=levels.fyi
+42,https://logo.clearbit.com/CapitalOne.com,Capital One,McLean,Summer,2022,10083,"Corporate housing or $3,000 post-tax lump sum housing.",https://www.cscareers.dev/job-postings/b037f999-c377-4900-b48e-baef1c968478?ref=levels.fyi
+43,https://logo.clearbit.com/Coursera.com,Coursera,Mountain View,Winter,2022,10053,Device fee $500,https://jobs.lever.co/coursera/?commitment=Intern&ref=levels.fyi
+44,https://logo.clearbit.com/Lob.com,Lob,San Francisco,Summer,2023,10053,"20$ lunch voucher, medical insurance, dental, vision, $100 transportation, $500 Remote Equipment Stipend",https://www.lob.com/careers?ref=levels.fyi#jobs
+45,https://logo.clearbit.com/Lyft.com,Lyft,San Francisco,Summer,2022,10053,"$1,000-1,500 / mo housing stipend (zone dependent). Prorated if you start in the middle of a month. $500 miscellaneous expense allowance. Round-trip transportation (air or driving) from school to internship, expenses covered. Free membership to Lyft Pink. Medical Benefits: Health, Vision, and Dental. All expenses are tax assisted.",https://www.lyft.com/careers?ref=levels.fyi#openings?search=intern
+46,https://logo.clearbit.com/audible.com,Audible,Newark,Summer,2022,10052,"Corporate housing, Company Provided transportation, Gift box.",https://amazon.jobs/en/search?base_query=audible+internship&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=&ref=levels.fyi
+47,https://logo.clearbit.com/Gusto.com,Gusto,San Francisco,Summer,2022,10001,"$2,000 / mo housing, $250 transportation",https://gusto.com/about/careers?ref=levels.fyi#job-listings
+48,https://logo.clearbit.com/OscarHealth.com,Oscar Health,Remote,Summer,2023,10000,,https://www.hioscar.com/careers/search?department=68381&location=-1&ref=levels.fyi
+49,https://logo.clearbit.com/https://www.reverielabs.com/,Reverie Labs,Cambridge,Summer,2022,10000,,https://www.workatastartup.com/companies/1775?ref=levels.fyi
+50,https://logo.clearbit.com/Stripe.com,Stripe,San Francisco,Summer,2022,9967,"Corporate or $2,000 / mo housing, Company Provided transportation, Health Insurance, $100 / mo Wellness Stipend, Commuter Stipend, PTO, Free Food",https://stripe.com/jobs/search?s=intern&ref=levels.fyi
+51,https://logo.clearbit.com/https:/aurora.tech/,Aurora,Seattle,Summer,2022,9880,"$1,150 housing. Relocation reimbursement, Free food (lunch, breakfast)",https://aurora.tech/careers?ref=levels.fyi
+52,https://logo.clearbit.com/Braze.com,Braze,New York City,Summer,2022,9880,Remote option,https://www.braze.com/company/careers?ref=levels.fyi#openings
+53,https://logo.clearbit.com/DoorDash.com,DoorDash,San Francisco,Summer,2022,9880,"$2,000 / mo housing, Free DashPass, $800 for round trip, Catered lunch and dinner, Dental and health benefits",https://careers.doordash.com/?search=intern+software&ref=levels.fyi#open-positions
+54,https://logo.clearbit.com/Okta.com,Okta,San Francisco,Summer,2022,9880,"$8,000 lumpsum housing, $275 transportation, $200 per month for phone",https://www.okta.com/company/careers/?ref=levels.fyi#careers-job-postings
+55,https://www.chicagotrading.com/assets/img/global/logo.png,Chicago Trading Company,Chicago,Summer,2022,9750,"Corporate housing, $5,000 sign on bonus, swag",https://www.chicagotrading.com/search?ref=levels.fyi
+56,https://logo.clearbit.com/Zoom.com,Zoom,San Jose,Summer,2022,9750,"Corporate housing, $1,000 COVID Stipend",https://zoom.wd5.myworkdayjobs.com/Zoom/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+58,https://logo.clearbit.com/AWS.com,AWS,Cupertino,Summer,2022,9707,"$2,445 housing, 2 Way Flights or Covered Travel and Hotel costs transportation, Bananas",https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&business_category%5B%5D=amazon-web-services&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=2022&city=&country=&region=&county=&query_options=&ref=levels.fyi
+59,https://logo.clearbit.com/ServiceNow.com,ServiceNow,Santa Clara,Summer,2022,9634,"5,000 housing, 401K plan, Health insurance, $600 meal reimbursement.",https://careers.smartrecruiters.com/ServiceNow?search=intern&ref=levels.fyi
+60,https://logo.clearbit.com/BlackRock.com,BlackRock,New York City,Summer,2022,9582,Overtime is $82.98/hr,https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-b90761acf21e/candidate/jobboard/vacancy/1/adv/?ref=levels.fyi
+61,https://logo.clearbit.com/Twitter.com,Twitter,Remote,Summer,2022,9577,"$2,000 / mo housing",https://careers.twitter.com/content/careers-twitter/en/roles.html?ref=levels.fyi#sortBy=relevance
+62,https://logo.clearbit.com/addepar.com,Addepar,New York City,Summer,2022,9533,,https://boards.greenhouse.io/addepar1?t=31a4a9852&ref=levels.fyi
+63,https://logo.clearbit.com/Algorand.com,Algorand,Remote,Summer,2022,9533,,https://www.algorand.com/about/careers?ref=levels.fyi
+64,https://logo.clearbit.com/Brex.com,Brex,Remote,Summer,2022,9533,,https://www.brex.com/careers/?ref=levels.fyi#jobsBoard
+65,https://i.imgur.com/x2xCdhC.png,Coalition,Remote,Summer,2022,9533,Housing: No Transportation: 0  Relocation: 0  Other Perks: No perks ,https://www.coalitioninc.com/careers/current-openings?ref=levels.fyi
+66,https://i.imgur.com/trFU29D.png,Confluent,Mountain View,Summer,2023,9533,"Master's internship, $2,000 / mo housing",https://www.confluent.io/careers/?ref=levels.fyi#open-positions
+67,https://logo.clearbit.com/GoPuff.com,GoPuff,San Francisco,Summer,2022,9533,"$1,300 housing. ",https://gopuff.com/go/careers?commitment=Intern%2FCo-Op&ref=levels.fyi
+68,https://logo.clearbit.com/http:/www.illumio.com/,Illumio,Sunnyvale,Summer,2023,9533,,https://www.illumio.com/career-openings?ref=levels.fyi
+69,https://i.imgur.com/qonpaet.png,InnoPeak,Palo Alto,Summer,2023,9533,,https://www.innopeaktech.com/open-positions-1?ref=levels.fyi
+70,https://logo.clearbit.com/OneMedical.com,One Medical,Remote,Summer,2022,9533,,https://www.onemedical.com/careers/all-departments/?ref=levels.fyi
+71,https://logo.clearbit.com/SumoLogic.com,Sumo Logic,Redwood City,Summer,2022,9533,"$5,000 housing. ",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+72,https://logo.clearbit.com/Tanium.com,Tanium,Remote,Summer,2022,9533,"$5,000 housing stipend (basically bonus since remote), $5,000 bonus",https://www.tanium.com/careers/internships/?ref=levels.fyi#jobs
+73,https://logo.clearbit.com/Tradeweb.com,Tradeweb,New Jersey,Summer,2022,9533,Master's internship.,https://www.tradeweb.com/who-we-are/careers/?ref=levels.fyi
+74,https://logo.clearbit.com/Pinterest.com,Pinterest,San Francisco,Summer,2022,9500,"$7,350 post tax stipend for housing, Free food, Health, Dental & Vision insurance. All standard Pintern employee benefits excluding 401k.",https://www.pinterestcareers.com/job-search-results/?job_type=Intern&ref=levels.fyi
+75,https://logo.clearbit.com/ScaleAI.com,Scale AI,San Francisco,Summer,2022,9500,,https://i.imgur.com/feB4HRb.png?ref=levels.fyi
+76,https://logo.clearbit.com/BelvedereTrading.com,Belvedere Trading,Chicago,Summer,2022,9480,"$2,000 housing, Performance Bonus at end of internship - $5,000",https://www.belvederetrading.com/jobs/?ref=levels.fyi
+77,https://logo.clearbit.com/PureStorage.com,Pure Storage,Mountain View,Summer,2022,9479,Corporate housing,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+78,https://logo.clearbit.com/Zillow.com,Zillow,Remote,Summer,2022,9447,"$3,000 housing, $450 + $150/month work from home stipend",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+79,https://logo.clearbit.com/Adobe.com,Adobe,San Josa,Summer,2022,9360,"$8,000 one time bonus",https://adobe.wd5.myworkdayjobs.com/external_university/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+80,https://i.imgur.com/d7My8Lp.png,Apple,Cupertino,Summer,2022,9360,"Corporate or $1,000 / mo housing, Discount off Apple items (25% off major items, 15% x 10 items for friends and family)",https://jobs.apple.com/en-us/search?search=Software+Engineering+Internship&sort=relevance&location=united-states-USA&ref=levels.fyi
+81,https://logo.clearbit.com/Salesforce.com,Salesforce,San Francisco,Summer,2022,9360,"$9,000 total housing, Free ZipCar membership transportation, medical (up to $6,000), dental, vision, 401k 6% up to $5k matching/year, $100 / mo health and wellness – gym membership, massage, yoga, round of golf, volunteering paid time; travel discounts (airfare, rental cars, and hotels).",https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/1/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-hm-sjb-1&ref=levels.fyi
+82,https://logo.clearbit.com/Splunk.com,Splunk,San Jose,Summer,2022,9360,"$3,250 housing, $750 relocation, other: not a returning intern, didn't negotiate, no sign-on bonus. ",https://www.splunk.com/view/SP-CAAAGMH?ref=levels.fyi
+83,https://i.imgur.com/MeAQvhq.png,Tiktok,Mountain View,Summer,2022,9360,"$14 / hr is added into rate for housing, $1,000 WFH Bonus transportation",https://careers.tiktok.com/position?keywords=&category=&location=CT_243&project=&type=3&job_hot_flag=&current=1&limit=10&ref=levels.fyi
+84,https://i.imgur.com/CvRqfdU.png,X - The Moonshot Factory,Mountain View,Summer,2022,9360,"$3,100 housing, $1,950 relocation, other perks: returning intern ",https://x.company/careers-at-x/?ref=levels.fyi
+85,https://i.imgur.com/2cGC3ZQ.png,Zoox,Foster City,Summer,2023,9360,"$1,000 / mo housing",https://www.zoox.com/careers/?ref=levels.fyi
+86,https://logo.clearbit.com/getcruise.com,Cruise,San Francisco,Summer,2022,9273,"$2,600 housing, $650 transportation",https://www.getcruise.com/careers/jobs/?search=intern&ref=levels.fyi
+88,https://logo.clearbit.com/Instabase.com,Instabase,Menlo Park,Summer,2022,9201,"$2,000 / mo housing",https://instabase.com/careers/?ref=levels.fyi#positions
+89,https://logo.clearbit.com/Atlassian.com,Atlassian,Mountain View,Summer,2022,9187,"$2,000 / mo for housing",https://jobs.lever.co/atlassian?commitment=Intern&ref=levels.fyi
+90,https://logo.clearbit.com/Datavant.com,Datavant,San Francisco,Summer,2022,9187,,https://datavant.com/about/careers/?ref=levels.fyi#open-positions
+91,https://logo.clearbit.com/DigitalOcean.com,DigitalOcean,New York City,Summer,2023,9187,"No housing, no transportation",https://www.digitalocean.com/careers/?ref=levels.fyi#anchor--current-openings
+92,https://logo.clearbit.com/https:/www.ellington.com/,Ellington Management Group,Old Greenwich,Summer,2022,9187,,https://www.ellington.com/careers?ref=levels.fyi
+93,https://i.imgur.com/otdWu0m.png,Hatch Credit,Remote,Winter,2023,9187,,https://jobs.lever.co/Hatchcard?ref=levels.fyi
+94,https://logo.clearbit.com/LiveRamp.com,LiveRamp,New York City,Summer,2022,9187,"$1,500 dollar sign-on bonus, $750 dollar work setup, $100 / mo for gym",https://liveramp.com/careers/open-positions/?department=university-early-career&location=location&ref=levels.fyi
+95,https://i.imgur.com/6wPnseT.png,Niantic,San Francisco,Summer,2023,9187,"$1,000 (If things stay remote) or $5,000 (if offices reopen) housing",https://careers.nianticlabs.com/openings?ref=levels.fyi
+96,https://logo.clearbit.com/nutanix.com,Nutanix,San Jose,Summer,2023,9187,"No housing, no transportation, $250 USD office home setup, $90 per month for phone bill.",https://nutanix.eightfold.ai/careers?pid=8455977&query=intern&domain=nutanix.com&ref=levels.fyi
+97,https://i.imgur.com/gZALTaM.png,Sentry,San Francisco,Summer,2022,9187,$140 transportation,https://boards.greenhouse.io/sentry/?ref=levels.fyi
+98,https://logo.clearbit.com/Snowflake.com,Snowflake,San Mateo,Summer,2022,9187,"$2,000 housing, $2,000 relocation",https://careers.snowflake.com/us/en/search-results?rk=l-university-recruiting&sortBy=Most+relevant&ref=levels.fyi
+99,https://logo.clearbit.com/TuSimple.com,TuSimple,San Diego,Summer,2022,9187,Corporate housing,https://www.tusimple.com/careers/?ref=levels.fyi
+100,https://logo.clearbit.com/Wing.com,Wing,Palo Alto,Summer,2022,9187,"$7,000 sign on bonus. ",https://wing.com/careers/?ref=levels.fyi
+101,https://logo.clearbit.com/JPMorgan.com,JPMorgan Chase,New York City,Summer,2022,9166,"$2,500 Sign-on bonus",https://careers.jpmorgan.com/us/en/students/programs?ref=levels.fyi
+102,https://logo.clearbit.com/ModernTreasury.com,Modern Treasury,San Francisco,Summer,2022,9166,,https://jobs.ashbyhq.com/moderntreasury?ref=levels.fyi
+103,https://logo.clearbit.com/MorganStanley.com,Morgan Stanley,New York City,Summer,2022,9166,"$2,000 sign on bonus can be used for housing, $500 transportation stipend, Swag (duffel bag).",https://www.morganstanley.com/careers/career-opportunities-search?ref=levels.fyi
+104,https://logo.clearbit.com/https:/careers.pimco.com/,Pimco,Newport Beach,Summer,2022,9166,"$5,000 housing, Not eligible to receive full time benefits",https://careers.pimco.com/careers/SearchJobs/2022?ref=levels.fyi
+105,https://logo.clearbit.com/Amazon.com,Amazon,Seattle,Summer,2022,9138,"$2,425 / mo post tax housing, Company Provided transportation, Flights covered, $75 in swag, 401k, Medical 91 days after start. 10% off on Amazon.com",https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&ref=levels.fyi
+106,https://imgur.com/aBzBX7R.png,Amazon (APP),Seattle,Summer,2022,9138,"$2,425 / mo housing, Flight to and from internship transportation",https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&ref=levels.fyi
+107,https://imgur.com/JkNdUDO.png,Amazon Robotics,Boston,Summer,2022,9138,"$1,875 / mo housing ",https://www.amazon.jobs/internships?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&cities%5B%5D=North+Reading%2C+Massachusetts%2C+USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&ref=levels.fyi
+108,https://logo.clearbit.com/Palantir.com,Palantir,Palo Alto,Summer,2022,9100,"$2,000 housing, Airfare, health insurance, swag",https://jobs.lever.co/palantir?commitment=Internship&ref=levels.fyi
+109,https://i.imgur.com/8Kd9MUj.png,McKinsey,New York City,Summer,2022,9065,Flights,https://www.mckinsey.com/careers/search-jobs?ref=levels.fyi#?query=Software%20intern
+110,https://logo.clearbit.com/Datadog.com,Datadog,New York City,Summer,2022,9027,"$3,000 housing, Transportation discount provided transportation, Free lunch on Tuesday, Wednesday, and Friday. Several intern events.",https://www.datadoghq.com/careers/detail/?gh_jid=3339295&gh_src=8363eca61&ref=levels.fyi
+111,https://logo.clearbit.com/Aviatrix.com,Aviatrix,Champaign,Summer,2022,9013,,https://aviatrix.com/careers/?ref=levels.fyi
+112,https://logo.clearbit.com/Convoy.com,Convoy,Seattle,Summer,2022,9013,"$2,500 housing, $500 / Orca card transportation",https://jobs.lever.co/convoy?ref=levels.fyi
+113,https://logo.clearbit.com/Gem.com,Gem,San Francisco,Summer,2022,9013,"Corporate housing, Free meals at office",https://www.gem.com/company/careers?ref=levels.fyi#jobboard
+114,https://logo.clearbit.com/Plaid.com,Plaid,San Francisco,Summer,2022,9013,"$9,000 sign on bonus (no housing)",https://plaid.com/careers/openings/?role=intern&department=Engineering&location=All+locations&ref=levels.fyi
+115,https://logo.clearbit.com/SAP.com,SAP,Seattle,Summer,2022,9013,Housing: Yes,https://jobs.sap.com/search/?q=&q2=&alertId=&locationsearch=&title=intern&location=&ref=levels.fyi
+116,https://imgur.com/3nnlOq5.png,Stottler Henke Associates,San Mateo,Summer,2023,9013,"No housing, No transportation, None",https://www.stottlerhenke.com/about/careers/?ref=levels.fyi
+117,https://logo.clearbit.com/Twilio.com,Twilio,San Francisco,Summer,2022,9013,TBD housing,https://boards.greenhouse.io/twiliostudents?ref=levels.fyi
+118,https://logo.clearbit.com/https:/www.pathai.com/,PathAI,Boston,Summer,2022,9000,"Company Provided transportation, Choice of computer equipment, free snacks, kombucha/beer on tap, free lunch 1 day/wk.",https://www.pathai.com/careers/?ref=levels.fyi
+119,https://logo.clearbit.com/Snap.com,Snap,Los Angeles,Summer,2022,9000,"$2,500 / mo housing, Free Food, Dental and health benefits",https://www.snap.com/en-GB/jobs?types=Intern&ref=levels.fyi
+120,https://imgur.com/tVUsOZs.png,Wolverine Trading,Chicago,Summer,2023,8927,"$1,500 housing, $100 transportation.",https://jobs.mufgamericas.com/search-jobs/intern/29757-30166/1?glat=59.938629150390625&glon=30.314130783081055&ref=levels.fyi
+121,https://logo.clearbit.com/Facebook.com,Facebook,Menlo Park,Summer,2022,8900,"Corporate housing, Company Provided transportation, Relocation, Gym, On site laundry & transport, Medical Insurance, $300 shipping, $500 wellness benefit, $1,000 home setup, free food.",https://www.facebook.com/careers/jobs/?roles%5B0%5D=intern&ref=levels.fyi
+122,https://logo.clearbit.com/Tatari.com,Tatari,San Francisco,Summer,2022,8892,,https://www.tatari.tv/careers/job-posting?gh%5C_jid=4439737002&ref=levels.fyi
+123,https://logo.clearbit.com/http://www.bungie.net/,Bungie,Seattle,Summer,2023,8840,"No housing, no transportation",https://careers.bungie.com/teams/27184/internship?ref=levels.fyi
+124,https://logo.clearbit.com/Expedia.com,Expedia Group,Seattle,Summer,2022,8840,"Corporate housing, Company Provided transportation, Employee Discount, Food, Relocation, 401k.",https://lifeatexpediagroup.com/jobs?keyword=intern&ref=levels.fyi
+125,https://logo.clearbit.com/Samsara.com,Samsara,San Francisco,Summer,2022,8840,"$5,000 total housing, Company provided transportation, catered lunches",https://www.samsara.com/company/careers/roles?ref=levels.fyi
+126,https://logo.clearbit.com/Squarespace.com,Squarespace,New York City,Summer,2022,8840,"$1,800 / mo or corporate dorm housing, $600 transportation to/from NYC (not within NYC).",https://www.squarespace.com/careers/engineering?ref=levels.fyi
+127,https://logo.clearbit.com/PocketGems.com,Pocket Gems,San Francisco,Summer,2023,8775,"$2,000 housing, Company Provided transportation, WFH setup, Taxi Cab, Flight Tickets from/to SF",https://pocketgems.com/job-search/?ref=levels.fyi
+128,https://logo.clearbit.com/GapInc.com,Gap,San Francisco,Summer,2022,8753,"$8,000 deduction on hourly if corporate housing housing, 50% off merch, $3,000 sign on bonus",https://www.gapinc.com/en-us/careers/job-search?currentpage=1&query=gaptech&currentPage=1&sort=score&ref=levels.fyi
+129,https://logo.clearbit.com/HyperScience.com,HyperScience,New York City,Summer,2022,8700,"Housing: Yes, 2000 Monthly. Transportation: Flight Tickets ",https://hyperscience.com/careers/open-positions/?ref=levels.fyi
+130,https://logo.clearbit.com/Bloomberg.com,Bloomberg,New York City,Summer,2022,8667,"Corporate or $5,100 housing, $2,000 relocation benefit",https://careers.bloomberg.com/job/search?qf=2022&ref=levels.fyi
+131,https://logo.clearbit.com/bubble.io,bubble.io,Remote,Winter,2022,8667,,https://bubble.io/careers?ref=levels.fyi
+132,https://logo.clearbit.com/Chainalysis.com,Chainalysis,New York City,Summer,2022,8667,"$5,000 total housing. ",https://boards.greenhouse.io/chainalysis?ref=levels.fyi
+133,https://imgur.com/hpSgi4a.png,Cisco Meraki,San Francisco,Summer,2022,8667,"$10,000 one-time housing bonus (or corporate housing). Transportation credits.",https://jobs.cisco.com/jobs/SearchJobs/?21180=%5B165%5D&21180_format=6022&listFilterMode=1&ref=levels.fyi
+134,https://logo.clearbit.com/Coinbase.com,Coinbase,New York City,Summer,2022,8667,"$500 WFH Stipend, $75 / mo wellness stipend, $125 / mo internet",https://www.coinbase.com/careers/positions/?department=Internships%2520%2526%2520University%2520Grad%2520Positions&ref=levels.fyi
+135,https://logo.clearbit.com/https:/www.cybcube.com/,CyberCube,Remote,Summer,2023,8667,,https://www.cybcube.com/careers/vacancies/?ref=levels.fyi
+136,https://logo.clearbit.com/databricks.com,Databricks,San Francisco,Summer,2022,8667,"$1,900 housing, $250 / mo for physical wellness (gym), $300 one-time for headphones",https://databricks.com/company/careers/open-positions?department=universityrecruiting&location=all&ref=levels.fyi
+137,https://logo.clearbit.com/Dataminr.com,Dataminr,New York City,Summer,2023,8667,"$5,000 sign on",https://www.dataminr.com/careers?ref=levels.fyi
+138,https://logo.clearbit.com/figma.com,Figma,San Francisco,Winter,2022,8667,"$2,000 / mo housing, Round trip flight, WFH stipend, Wifi reimbursement, food in the office.",https://jobs.lever.co/figma/?commitment=Intern&ref=levels.fyi
+139,https://logo.clearbit.com/Genentech.com,Genentech,South San Francisco,Fall,2023,8667,$500 housing,https://www.gene.com/careers/find-a-job?searchterms=intern&function=&type=Temporary+%28Fixed+Term%29&municipality=&ref=levels.fyi
+140,https://logo.clearbit.com/HubSpot.com,HubSpot,Boston,Summer,2022,8667,"$3,000 housing",https://www.hubspot.com/careers/jobs/?page=1&ref=levels.fyi#roleType=intern;
+141,https://logo.clearbit.com/HubSpot.com,Hubspot,Remote,Fall,2022,8667,"Housing: No Other Perks: $2,000 one time bonus, PTO, sick time, 60$ monthly internet stipend, monthly wellness stipend, 401k, ESPP.  ",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+142,https://logo.clearbit.com/Intuit.com,Intuit,Mountain View,Summer,2022,8667,"Full corporate housing provided, Full transportation provided, $100 for meal per day, round trip airfare, miscellaneous 2,000$.",https://jobs.intuit.com/search-jobs/intern/27595/1?ref=levels.fyi
+143,https://logo.clearbit.com/Intuitive.com,Intuitive,Sunnyvale,Summer,2022,8667,$5000 one-time relocation,https://careers.intuitive.com/us/en/search-results?ref=levels.fyi
+144,https://logo.clearbit.com/IntuitiveSurgical.com,Intuitive Surgical,Sunnyvale,Summer,2022,8667,"$5,000 housing. ",https://careers.intuitive.com/us/en/c/university-jobs?ref=levels.fyi
+145,https://logo.clearbit.com/Klaviyo.com,Klaviyo,Boston,Summer,2022,8667,"$5,000 Signing Bonus. Any book purchase expensed. Mental Health App - free subscription.",https://www.klaviyo.com/careers?ref=levels.fyi#open-roles
+146,https://logo.clearbit.com/Loom.com,Loom,Remote,Summer,2022,8667,"$300 WFH stipend, $100 / mo for gym, $100 / mo for mental health/wellness, $75 / mo for internet",https://www.loom.com/careers?ref=levels.fyi#positions
+147,https://logo.clearbit.com/MongoDB.com,MongoDB,New York City,Summer,2022,8667,"$7,500 total housing, $655 transportation, $400 to $1,000 relocation.",https://www.mongodb.com/careers/positions?ref=levels.fyi
+148,https://logo.clearbit.com/MuleSoft.com,MuleSoft,San Francisco,Summer,2022,8667,"$3,000 / mo housing. $200 for wireless headphone, 250 for housing products, $100 / mo for wellness.",https://salesforce.wd1.myworkdayjobs.com/mulesoft_careersite/6/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+149,https://logo.clearbit.com/NortonLifeLock.com,NortonLifeLock,Mountain view,Summer,2022,8667,,https://nortonlifelock.wd1.myworkdayjobs.com/university/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+150,https://logo.clearbit.com/https:/www.Patientco.com/,Patientco,Atlanta,Summer,2022,8667,,https://jobs.lever.co/patientcolife/?ref=levels.fyi
+151,https://logo.clearbit.com/Patreon.com,Patreon,San Fransisco,Summer,2023,8667,"$1,500 / mo housing, pays for all travel expences",https://boards.greenhouse.io/patreon?ref=levels.fyi
+152,https://i.imgur.com/M9CtX07.png,PayPal,San Jose,Summer,2022,8667,"Corporate housing, Company Provided transportation",https://jobsearch.paypal-corp.com/en-US/search?keywords=intern&facetcountry=us&location=&facetcategory=internship&ref=levels.fyi
+154,https://imgur.com/4g1G0bD.png,Remitly,Seattle,Summer,2023,8667,"$1,000 lumpsum stipend",https://www.remitly.com/us/en/careers/in/engineering?ref=levels.fyi
+155,https://logo.clearbit.com/SailPoint.com,SailPoint,Austin,Summer,2022,8667,,https://www.sailpoint.com/company/careers/?ref=levels.fyi
+156,https://logo.clearbit.com/sig.com,SIG,Bala Cynwyd,Summer,2022,8667,"Corporate housing, $600 transportation, $10,000 signing bonus",https://careers.sig.com/search-results?keywords=intern&ref=levels.fyi
+157,https://logo.clearbit.com/SoFi.com,SoFi,San Francisco,Summer,2022,8667,"$5,000 housing, Food Stipend, Catered Food, Events, Special access to SoFi stadium games / concerts, personalized Mentorship Program, Fully stocked kitchen (snacks & drinks)",https://www.sofi.com/careers/?ref=levels.fyi
+158,https://logo.clearbit.com/Tapad.com,Tapad,New York City,Summer,2022,8667,,https://www.tapad.com/careers/open-roles?ref=levels.fyi
+159,https://logo.clearbit.com/Tinder.com,Tinder,Remote,Summer,2023,8667,$250 setup fee,https://join.matchgroupcareers.com/careers?pid=2215596&department=Tinder&query=intern&domain=gotinder.com&ref=levels.fyi
+160,https://logo.clearbit.com/TruEra.com,TruEra,Redwood City,Summer,2022,8667,Free DoorDash for meals,https://truera.com/truera-best-machine-learning-jobs/?ref=levels.fyi
+161,https://logo.clearbit.com/Uber.com,Uber,San Francisco,Summer,2022,8667,"$1,500 housing, Monthly Uber credits equivalent to the average fare of your home city, multiplied by 15. 17% discount is always in effect and applied to all subsequent trips. transportation, ,free daily catered meals, $50 / mo cellphone reimbursement, health/dental insurance.",https://www.uber.com/us/en/careers/list/?department=University&ref=levels.fyi
+162,https://logo.clearbit.com/Unity.com,Unity Technologies,San Francisco,Summer,2023,8667,,https://careers.unity.com/university?ref=levels.fyi
+163,https://logo.clearbit.com/Verkada.com,Verkada,San Mateo,Summer,2022,8667,"$2,000 / mo housing, transportation covered",https://jobs.lever.co/verkada/?commitment=Intern&ref=levels.fyi
+164,https://logo.clearbit.com/wepay.com,WePay,Redwood City,Summer,2022,8667,,https://go.wepay.com/careers-openings/?ref=levels.fyi
+165,https://logo.clearbit.com/Yext.com,Yext,New York City,Summer,2022,8667,"$5,000 stipend",https://boards.greenhouse.io/yext/?ref=levels.fyi
+166,https://logo.clearbit.com/quip.com,Quip,San Francisco,Summer,2022,8635,"$12,950 housing",https://quip.com/about/jobs?ref=levels.fyi
+167,https://logo.clearbit.com/slack.com,Slack,San Francisco,Summer,2022,8635,"$3,000 / mo housing",https://salesforce.wd1.myworkdayjobs.com/Slack/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+168,https://logo.clearbit.com/Tableau.com,Tableau,Seattle,Summer,2022,8635,"$3,000 / mo housing, 401(k) $5,000 matching/year, Employee Stock Purchase Plan, $100/month for health and wellness - gym membership, massage, yoga, round of golf, etc.,  24-hour travel assistance, travel discounts (airfare, rental cars, and hotels), a free membership to ZipCar, discounts with Fond.",https://salesforce.wd1.myworkdayjobs.com/Tableau/3/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+169,https://logo.clearbit.com/Blackstone.com,Blackstone,New York City,Summer,2022,8575,Paid semi-monthly. Internship will last 8 weeks.,https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/2/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+170,https://logo.clearbit.com/redfin.com,Redfin,Seattle,Summer,2022,8493,"$5,000 housing, Company Provided transportation",https://www.redfin.com/careers/departments/early-career?ref=levels.fyi
+171,https://logo.clearbit.com/Sony.com,Sony Playstation,San Francisco,Summer,2022,8407,Corporate housing,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+172,https://logo.clearbit.com/GoldmanSachs.com,Goldman Sachs,Dallas,Summer,2022,8349,"$5,000 for the entire duration housing, 750 flight transportation, Free travel and gym",https://www.goldmansachs.com/careers/students/programs/?ref=levels.fyi
+173,https://logo.clearbit.com/Nomura.com,Nomura,New York City,Summer,2022,8334,"$3,500 total housing stipend",https://nomuracampus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-3348347fc789/candidate/jobboard/vacancy/1/adv/?ref=levels.fyi
+174,https://logo.clearbit.com/Waymo.com,Waymo,Mountain View,Summer,2022,8334,"$2,333 housing ",https://waymo.com/careers/?ref=levels.fyi#roles
+175,https://logo.clearbit.com/Ancestry.com,Ancestry,San Francisco,Summer,2023,8320,"$2,500 housing, no transportation",https://careers.ancestry.com/us/en/internship-jobs?ref=levels.fyi
+176,https://logo.clearbit.com/Autodesk.com,Autodesk,Remote,Summer,2022,8320,"$4,000 housing. ",https://autodesk.wd1.myworkdayjobs.com/uni/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+177,https://logo.clearbit.com/Flatiron.com,Flatiron,New York City,Summer,2023,8320,"$1,500 / mo housing",https://flatiron.com/careers/open-positions/?ref=levels.fyi
+178,https://logo.clearbit.com/FlatironHealth.com,Flatiron Health,New York City,Summer,2022,8320,"$1,500 / mo housing, flights paid for,  breakfast / lunch.",https://angel.co/company/flatiron-health/jobs?ref=levels.fyi
+179,https://i.imgur.com/Z0QwVVW.png,Peloton,New York City,Summer,2022,8320,"$5,000 for the whole period of the internship housing.",https://www.onepeloton.com/careers?search=intern&ref=levels.fyi
+180,https://logo.clearbit.com/Robinhood.com,Robinhood,Menlo Park,Summer,2022,8320,"$2,000 / mo housing, Company Provided transportation, Caltrain, $100 / mo health and wellness, paid domestic flights, 3 days sick leave, 2 days PTO (unused PTO added to salary), paid holidays.",https://robinhood.com/us/en/careers/openings/?ref=levels.fyi
+181,https://imgur.com/9UI4nPT.png,SeekOut,Bellevue,Summer,2022,8320,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+182,https://logo.clearbit.com/Singlestore.com,Singlestore,San Francisco,Summer,2022,8320,"Corporate housing, Company provided transportation",https://boards.greenhouse.io/singlestore/?ref=levels.fyi
+183,https://logo.clearbit.com/UiPath.com,UiPath,Bellevue,Summer,2022,8320,"$6,000 total housing, $100 wellness",https://www.uipath.com/company/careers/jobs?ref=levels.fyi
+184,https://logo.clearbit.com/ChanZuckerbergInitiative.com,Chan Zuckerberg Initiative,Redwood City,Summer,2022,8301,"$8,000 one time housing, Free train card transportation, $50 / mo gym",https://chanzuckerberg.com/careers/career-opportunities/?lists=all&ref=levels.fyi
+185,https://logo.clearbit.com/CockroachLabs.com,Cockroach Labs,New York City,Summer,2022,8251,"$2,500 sign on bonus",https://www.cockroachlabs.com/careers/open-positions/?ref=levels.fyi
+186,https://logo.clearbit.com/AmericanExpress.com,American Express,New York City,Summer,2022,8147,"$5,000 sign-on bonus ",https://aexp.eightfold.ai/careers?pid=9090147&query=intern&domain=aexp.com&triggerGoButton=false&ref=levels.fyi
+187,https://logo.clearbit.com/Bolt.com,Bolt,San Francisco,Summer,2022,8147,$400 USD WFH stipend,https://www.bolt.com/careers/?ref=levels.fyi
+188,https://logo.clearbit.com/bytedance.com,Bytedance,Mountain View,Summer,2023,8147,"$14 / hr (factored into the salary) housing, Free food (for in-person internship)",https://jobs.bytedance.com/en/position?type=3&ref=levels.fyi
+189,https://logo.clearbit.com/Duolingo.com,Duolingo,Pittsburgh,Summer,2022,8147,"$1,000 / mo housing, Free Breakfast, Lunch, and Dinner, 2 days PTO, 401k",https://boards.greenhouse.io/duolingo/?ref=levels.fyi
+190,https://i.imgur.com/lWtA6W0.png,Intel,Santa Clara,Summer,2022,8147,One Time Relocation Bonus based on Miles,https://jobs.intel.com/page/show/search-results?ref=levels.fyi#q=intern&t=Jobs&sort=relevancy&layout=table
+191,https://logo.clearbit.com/Microsoft.com,Microsoft,Bellevue,Summer,2022,8147,"$7,000 or Corporate housing, Company Provided or $1,200 transportation, $5,000 return sign-on bonus, covered relocation cost, Bus pass, health club, and medical.",https://careers.microsoft.com/students/us/en/search-results?keywords=intern&ref=levels.fyi
+192,https://logo.clearbit.com/QuantCo.com,QuantCo,Cambridge,Summer,2022,8147,"$2,000 housing, Company provided transportation",https://jobs.lever.co/quantco-/?ref=levels.fyi
+193,https://logo.clearbit.com/Roku.com,Roku,San Jose,Summer,2022,8147,"$3,200 one time bonus",https://www.roku.com/jobs/listing?search=intern&dept=Software+Engineering&ref=levels.fyi
+194,https://logo.clearbit.com/vmware.com,VMware,Palo Alto,Summer,2022,8147,"$2,800 ($8,500 lump sum over 3 months) housing",https://careers.vmware.com/main/jobs?keywords=intern&sortBy=relevance&page=1&ref=levels.fyi
+195,https://logo.clearbit.com/Noom.com,Noom,New York City,Summer,2022,8125,"$1,700 housing, Free Noom App vouchers, $50 Snack box, $200 wellness stipend",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+196,https://logo.clearbit.com/Shopify.com,Shopify,Atlanta,Spring,2022,8083,"$500 / mo housing, $500 'WFH' Stipend (no restrictions on how spent), $250 Wellness, $250 'Startify' (start your own Shopify store), $100 / item 'Own Your Own Development' for anything educational / career development (unlimited uses, but max $100 / item)",https://www.shopify.ca/careers/interns?ref=levels.fyi#Jobs
+197,https://logo.clearbit.com/Nordstrom.com,Nordstrom,Seattle,Summer,2022,8051,"Corporate housing, Up to $100 per month transportation, 33% off Nordstrom, 20% off Nordstrom Rack/HauteLook/Restaurants. ",https://careers.nordstrom.com/?ref=levels.fyi
+198,https://logo.clearbit.com/blend.com,Blend,San Francisco,Summer,2022,7999,"Housing stipend if in person housing, Free flights transportation, WFH stipend, internet stipend, free food",https://boards.greenhouse.io/blend/?ref=levels.fyi
+200,https://logo.clearbit.com/IXLLearning.com,IXL Learning,San Mateo,Summer,2022,7999,"$4,500 lump-sum relocation",https://www.ixl.com/company/careers?ref=levels.fyi
+201,https://logo.clearbit.com/http:/www.opendoor.com/,Opendoor,Remote,Summer,2023,7999,"$50 / mo wifi, employee discounts on stuff",https://jobs.lever.co/opendoor?ref=levels.fyi
+202,https://logo.clearbit.com/ADP.com,ADP Lifion,New York City,Summer,2023,7973,"No housing, no transportation",https://lifion.com/careers?ref=levels.fyi
+203,https://logo.clearbit.com/ApolloGraphQL.com,Apollo GraphQL,San Francisco,Summer,2023,7973,$50 / mo technology stipend,https://www.apollographql.com/careers/?ref=levels.fyi
+204,https://logo.clearbit.com/CreditKarma.com,Credit Karma,Charlotte,Summer,2022,7973,"$3,000 relocation",https://www.creditkarma.com/careers?ref=levels.fyi
+205,https://logo.clearbit.com/Dolby.com,Dolby,San Francisco,Summer,2022,7973,"$1,500 housing, Every alternate Friday Off.",https://careers.dolby.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_state=&optionsFacetsDD_department=&ref=levels.fyi
+206,https://logo.clearbit.com/Momentive.com,Momentive,Remote,Summer,2022,7973,"Signing Bonus - $2,000",https://www.momentive.ai/en/careers/dept/engineering/?ut_source2=en%2Fcareers&ut_source3=inline&ref=levels.fyi
+207,https://logo.clearbit.com/Oracle.com,Oracle,Remote,Summer,2022,7973,"$5,000 TBA (Given in the Spring) housing",https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare&ref=levels.fyi
+208,https://logo.clearbit.com/PaloAltoNetworks.com,Palo Alto Networks,Santa Clara,Summer,2023,7973,,https://jobs.paloaltonetworks.com/job-search-results/?keyword=Intern&category%5B%5D=Internships&compliment=Americas&ref=levels.fyi
+209,https://logo.clearbit.com/SurveyMonkey.com,SurveyMonkey,San Mateo,Summer,2022,7973,"$2,000 signing bonus",https://www.surveymonkey.com/careers/dept/engineering/?ref=levels.fyi
+210,https://logo.clearbit.com/Vertica.com,Vertica,Boston,Summer,2022,7973,"$3,500 housing",https://www.vertica.com/about/careers/?ref=levels.fyi
+211,https://logo.clearbit.com/EpicGames.com,Epic Games,CA,Summer,2022,7916,,https://www.epicgames.com/site/ru/careers/jobs?type=Intern&page=1&ref=levels.fyi
+212,https://logo.clearbit.com/Wealthfront.com,Wealthfront,Palo Alto,Summer,2022,7887,"$3,000 housing",https://www.wealthfront.com/careers?ref=levels.fyi
+213,https://logo.clearbit.com/airbnb.com,Airbnb,Remote,Summer,2022,7800,"$1,000 housing, $1,000 airbnb credit, insurance",https://careers.airbnb.com/university/?ref=levels.fyi
+214,https://logo.clearbit.com/AXON.com,AXON,Scottsdale,Summer,2022,7800,,https://www.axon.com/careers/board?ref=levels.fyi
+215,https://logo.clearbit.com/https:/www.bamfunds.com/,Balyasny Asset Management,Chicago,Summer,2022,7800,"$5,000 housing",https://bamfunds.wd1.myworkdayjobs.com/External/5/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+216,https://logo.clearbit.com/Cadance.com,Cadence,Remote,Summer,2023,7800,,https://cadence.wd1.myworkdayjobs.com/Univ_Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+217,https://logo.clearbit.com/CoStarGroup.com,CoStar Group,Washington,Summer,2022,7800,"$2,000 - one time housing",https://costar.wd1.myworkdayjobs.com/CoStarCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+218,http://logo.clearbit.com/Crowdstrike.com/,Crowdstrike,Remote,Summer,2022,7800,"$1,000 housing. ",https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+219,https://logo.clearbit.com/DraftKings.com,DraftKings,Boston,Summer,2022,7800,"$2,500 sign-on bonus",https://careers.draftkings.com/jobs/?search=intern&pagesize=20&ref=levels.fyi
+220,https://logo.clearbit.com/FetchRewards.com,Fetch Rewards,Madison,Summer,2023,7800,"No housing, no transportation",https://boards.greenhouse.io/fetchrewards?ref=levels.fyi
+221,https://logo.clearbit.com/grubhub.com,Grubhub,New York City,Summer,2022,7800,"$5,000 housing. ",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+222,https://logo.clearbit.com/https:/gtsx.com/,GTS,New York City,Summer,2023,7800,"$1,500 housing, Free lunch (Seamless)",https://careers-gtsx.icims.com/jobs/search?ss=1&mobile=false&width=960&height=500&bga=true&needsRedirect=false&jan1offset=180&jun1offset=240&ref=levels.fyi
+223,https://logo.clearbit.com/HBO.com,HBO,Remote,Winter,2022,7800,Housing: No Transportation: 0  Relocation: 0  Other Perks: 0 ,https://hbocareers.com/search?sort=&q=internship&location=&type=&organization=&ref=levels.fyi
+224,https://logo.clearbit.com/Infinera.com,Infinera,Sunnyvale CA,Summer,2023,7800,"$5,000 housing ",https://www.infinera.com/careers/faqs/?ref=levels.fyi
+225,https://logo.clearbit.com/MasterCard.com,MasterCard,New York City,Summer,2022,7800,"$5,000 Sign On Bonus",https://mastercard.jobs/jobs/?q=intern&location=New+York&ref=levels.fyi#2
+226,https://imgur.com/GvO4ZCF.png,Moody's Corporation,Remote,Summer,2023,7800,Corporate discounts,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+227,https://logo.clearbit.com/Nextdoor.com,Nextdoor,San Francisco,Summer,2022,7800,"$1,500 / mo housing",https://about.nextdoor.com/ca-en/careers/?ref=levels.fyi
+228,https://logo.clearbit.com/nike.com,Nike,Beaverton,Summer,2022,7800,"$1,500 housing",https://jobs.nike.com/internships?jobSearch=true&jsKeywords%5B0%5D=internship&jsOffset=0&jsSort=posting_start_date&jsLanguage=en&ref=levels.fyi
+229,http://logo.clearbit.com/https:/opennetworking.org/,Open Networking Foundation,Menlo Park,Fall,2023,7800,,https://opennetworking.org/careers/?ref=levels.fyi
+230,https://logo.clearbit.com/Philips.com,Philips,Boston,Spring,2022,7800,,https://www.careers.philips.com/na/en/search-results?ref=levels.fyi
+231,https://logo.clearbit.com/Poshmark.com,Poshmark,San Francisco,Summer,2022,7800,,https://poshmark.com/careers?ref=levels.fyi
+232,https://logo.clearbit.com/repl.it,Repl.it,San Francisco,Summer,2022,7800,,https://replit.com/site/careers?ref=levels.fyi
+233,https://logo.clearbit.com/https:/xpring.io/,Ripple Xpring,San Francisco,Summer,2023,7800,"$500 housing, Company Provided transportation, Lots of swag, Free Airpods Pro",https://ripple.com/company/careers/all-jobs/?ref=levels.fyi
+234,https://logo.clearbit.com/Rivian.com,Rivian,Palo Alto,Winter,2022,7800,"$2,500 / mo housing",https://rivian.com/careers?search=intern&ref=levels.fyi
+235,https://i.imgur.com/fGkNHSV.png,Walmart Global Tech,Sunnyvale,Summer,2022,7800,"Corporate or $1,600 monthly housing, Flights to and from internship location. One time $200 relation bonus.",https://careers.walmart.com/results?q=2021&page=1&sort=rank&jobCategory=00000159-75a3-d286-a3f9-7fa3cf810000%2C00000161-7bf4-da32-a37b-fbf7c59e0000&jobSubCategory=0000015a-a52c-d06d-af5f-f5bfce780000&expand=department%2Cbrand%2Ctype%2Crate&type=jobs&ref=levels.fyi
+236,https://logo.clearbit.com/Weride.ai,Weride.ai,San Jose,Summer,2022,7800,,https://jobs.lever.co/weride/?ref=levels.fyi
+237,https://logo.clearbit.com/workday.com,Workday,Pleasanton,Summer,2022,7800,"$7,000 housing",https://workday.wd5.myworkdayjobs.com/en-us/workday_university_careers?ref=levels.fyi
+238,https://logo.clearbit.com/Xilinx.com,Xilinx,San Jose,Summer,2023,7800,"No housing, no transportation",https://careers.xilinx.com/search/intern/jobs?ref=levels.fyi
+239,https://logo.clearbit.com/Amazon.com,Amazon,Sunnyvale,Summer,2022,7658,"$2,425 / mo housing, provided transportation and relocation",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+240,https://logo.clearbit.com/Ebay.com,eBay,San Jose,Summer,2023,7627,"Corporate housing, no transportation",https://jobs.ebayinc.com/search-jobs?ac=38598&ref=levels.fyi
+241,https://logo.clearbit.com/EOGResources.com,EOG Resources,Houston,Summer,2023,7627,"$2,166 / mo ($6,500 total) housing",https://careers.eogresources.com/process_jobsearch.asp?ref=levels.fyi
+242,https://logo.clearbit.com/F5Networks.com,F5 Networks,Seattle,Summer,2022,7627,"$5,000 housing",https://ffive.wd5.myworkdayjobs.com/f5jobs/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+243,https://logo.clearbit.com/https:/www.interactivebrokers.com/,Interactive Brokers,Greenwich,Summer,2023,7627,Free lunch,https://boards.greenhouse.io/ibkr?ref=levels.fyi
+244,https://logo.clearbit.com/https:/www.observeinc.com/,Observe,San Mateo,Summer,2022,7627,,https://jobs.lever.co/observeinc?ref=levels.fyi
+245,https://logo.clearbit.com/Qualcomm.com,Qualcomm,San Diego,Summer,2022,7627,"Corporate housing, Free Surfing, Skydiving, and Jet Skiing",https://qualcomm.wd5.myworkdayjobs.com/External/2/refreshFacet/318c8bb6f553100021d223d9780d30be?src=LinkedInJobs&source=Linkedin&ref=levels.fyi
+246,https://logo.clearbit.com/Teradata.com,Teradata,San Diego,Summer,2023,7627,,https://careers.teradata.com/jobs?page=1&remote=false&keyword=intern&ref=levels.fyi
+247,https://logo.clearbit.com/Wayfair.com,Wayfair,Boston,Summer,2022,7627,"Corporate housing, Company Provided transportation",https://www.wayfairstudentcareers.com/all-open-roles?ref=levels.fyi
+248,https://logo.clearbit.com/Wealthsimple.com,Wealthsimple,Toronto,Winter,2022,7627,"$500 of WFH reimbursement. If working in-person, you recieve catered lunches, snacks, & beverages along with $75 / mo transport/phone expense reimbursement. The intern salary depends on which co-op/intern term you're  in. As in, If this is your last term, you will get $44 / hr (5th co-op).",https://jobs.lever.co/wealthsimple?ref=levels.fyi
+249,https://i.imgur.com/99UHzoe.png,C3.Ai,San Francisco,Summer,2022,7583,Gym Membership and complimentary meals,https://c3.ai/careers/?ref=levels.fyi
+250,https://logo.clearbit.com/http:/https:/www.cambly.com/,Cambly,San Francisco,Summer,2022,7583,Doordash and WFH stipend,https://jobs.lever.co/cambly/?commitment=Intern&ref=levels.fyi
+251,https://imgur.com/YCEvAa9.png,PlayStation,Los Angeles,Summer,2022,7583,Corporate (Fully furnished) housing,https://www.playstation.com/en-us/corporate/playstation-careers/?ref=levels.fyi#listings
+252,https://logo.clearbit.com/Tesla.com,Tesla,Palo Alto,Summer,2022,7583,"$2,800 housing.",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+253,https://logo.clearbit.com/Tile.com,Tile,San Mateo,Winter,2023,7514,"$500 plane ticket transportation, $2,000 relocation, free lunches",https://jobs.lever.co/tileapp?ref=levels.fyi
+254,https://logo.clearbit.com/VerilyLifeSciences.com,Verily Life Sciences,South San Francisco,Summer,2023,7500,"No housing, no transportation",https://verily.com/roles/?ref=levels.fyi
+255,https://logo.clearbit.com/Google.com,Google,Mountain View,Summer,2022,7497,"$9,000 housing",https://careers.google.com/jobs/results/?company=Google&company=YouTube&distance=50&employment_type=FULL_TIME&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&q=2022&ref=levels.fyi
+256,https://logo.clearbit.com/Argo.ai,Argo Ai,Palo Alto,Summer,2022,7453,"$2,300 housing, $1,200 transportation",https://www.argo.ai/join-us/?ref=levels.fyi
+257,https://logo.clearbit.com/Arubanetworks.com,"Aruba, HPE Company",San Jose,Summer,2022,7453,"$5,000 lump sum housing. Health and Dental cover.",https://careers.arubanetworks.com/jobs?ref=levels.fyi
+258,https://logo.clearbit.com/Athenahealth.com,Athenahealth,Watertown,Summer,2022,7453,,https://athenahealth.wd1.myworkdayjobs.com/External/3/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+259,https://logo.clearbit.com/https:/discovery.com/,Discovery,New York City,Summer,2023,7453,"$2,500 / mo housing",https://jobs.discovery.com/careers-home/jobs?keywords=intern&sortBy=relevance&page=1&ref=levels.fyi
+260,https://logo.clearbit.com/hpe.com,Hewlett Packard,San Jose,Summer,2022,7453,,https://careers.hpe.com/jobs?ref=levels.fyi
+261,https://logo.clearbit.com/Pandora.com,Pandora,Oakland,Summer,2023,7453,,https://pandoragroup.com/careers/vacancies?searchtext=intern&ref=levels.fyi
+262,https://logo.clearbit.com/Samsung.com,Samsung,San Jose,Summer,2022,7453,"$2,000 housing, $1,500 transportation.",https://sec.wd3.myworkdayjobs.com/Samsung_Careers/3/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+263,https://i.imgur.com/4Ia3Wi9.png,SiriusXM,Oakland,Summer,2022,7453,"$500 transportation, free access to SiriusXM",https://jobs.jobvite.com/siriusxm/search?l=&c=&q=intern&ref=levels.fyi
+264,https://logo.clearbit.com/IBM.com,IBM,Rochester,Summer,2022,7367,"$2,000 lump sum + $750 WFH stipend ",https://krb-sjobs.brassring.com/tgnewui/search/home/homewithpreload?partnerid=26059&siteid=5016&pagetype=jobdetails&jobid=458529&ref=levels.fyi#jobDetails=458529_5016
+265,https://logo.clearbit.com/Productiv.com,Productiv,Seattle,Summer,2022,7367,,https://boards.greenhouse.io/productiv/?ref=levels.fyi
+266,https://i.imgur.com/PswImqM.png,Squarepoint Capital,Montreal,Fall,2023,7367,Free food,https://www.squarepoint-capital.com/?ref=levels.fyi
+267,https://logo.clearbit.com/Google.com,Google STEP,Sunnyvale,Summer,2022,7334,"$6,000 housing, $3,000 Relocation bonus, Gbus transportation.",https://careers.google.com/jobs/results/?company=Google&company=YouTube&distance=50&employment_type=FULL_TIME&employment_type=INTERN&employment_type=PART_TIME&employment_type=TEMPORARY&jex=ENTRY_LEVEL&q=summer+step&ref=levels.fyi
+269,https://logo.clearbit.com/Chime.com,Chime,San Francisco,Summer,2022,7280,,https://www.chime.com/job-openings/?ref=levels.fyi
+270,https://logo.clearbit.com/Coupang.com,Coupang,Mountain View,Summer,2022,7280,,https://rocketyourcareer.usa.coupang.com/search-jobs/intern?orgIds=23024&kt=1&ref=levels.fyi
+271,https://logo.clearbit.com/https:/www.docusign.com/,DocuSign,San Francisco,Summer,2022,7280,,https://www.docusign.com/company/careers/open-positions?keyword=intern&op=Search&department=&location=&ref=levels.fyi
+272,https://logo.clearbit.com/Eightfold.ai,Eightfold.ai,Santa Clara,Summer,2022,7280,,https://app.eightfold.ai/careers/search?pid=68721310993&query=intern&domain=volkscience.com&triggerGoButton=false&ref=levels.fyi
+273,https://logo.clearbit.com/Esri.com,Esri,Redlands,Summer,2022,7280,"$3,500 relocation ",https://www.esri.com/careers/software-development-and-engineering-2021-internships-13003?ref=levels.fyi
+274,https://logo.clearbit.com/REXHomes.com,REX Homes,Redwood City,Summer,2023,7280,"$2,000 housing, Office lunch once a week, snack bar",https://www.rexhomes.com/careers?ref=levels.fyi
+275,https://logo.clearbit.com/Ridgeline.com/,Ridgeline,Incline Village,Summer,2023,7280,Corporate Housing,https://careers.smartrecruiters.com/RidgelineInternational?ref=levels.fyi
+276,https://logo.clearbit.com/samsung.com,Samsung Electronics (SARC),Austin,Summer,2023,7280,Free food,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+277,https://logo.clearbit.com/Zscaler.com,Zscaler,Remote,Summer,2023,7280,"No housing, no transportation",https://www.zscaler.com/careers?ref=levels.fyi
+278,https://logo.clearbit.com/Pagerduty.com,PagerDuty,Remote,Fall,2023,7275,,https://jobs.lever.co/pagerduty?commitment=Intern%2FCAP&ref=levels.fyi
+279,https://logo.clearbit.com/RecRoom.com,Rec Room,Seattle,Summer,2022,7107,"$3,500 transportation",https://recroom.com/careers?ref=levels.fyi
+280,https://logo.clearbit.com/Synopsys.com,Synopsys,San Francisco,Summer,2023,7107,,https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359&ref=levels.fyi#keyWordSearch=intern&locationSearch=
+281,https://logo.clearbit.com/TheTradeDesk.com,The Trade Desk,Hong Kong,Summer,2022,7107,,https://thetradedesk.wd5.myworkdayjobs.com/TTDExternalSite/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+282,https://logo.clearbit.com/Jefferies.com,Jefferies,New York City,Summer,2023,7084,,https://jefferies.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-016c915b0a67/candidate/jobboard/vacancy/2/adv/?ref=levels.fyi
+283,https://logo.clearbit.com/Clever.com,Clever,San Francisco,Summer,2022,7041,"$6,000 lumpsum housing",https://clever.com/about/careers/?ref=levels.fyi
+284,https://logo.clearbit.com/Socotra.com,Socotra,San Francisco,Summer,2022,7001,,https://jobs.lever.co/socotra?ref=levels.fyi
+285,https://logo.clearbit.com/https:/allenai.org,Allen Institute for AI,Seattle,Summer,2023,6999,"Healthcare, paid time off",https://allenai.org/internships?ref=levels.fyi
+286,https://logo.clearbit.com/Alteryx.com,Alteryx,Remote,Summer,2023,6933,,https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+287,https://logo.clearbit.com/AltoPharmacy.com,Alto Pharmacy,San Francisco,Fall,2023,6933,They only recruit through Greylock Techfair and don't open apps to general.,https://alto.com/careers?ref=levels.fyi
+288,https://logo.clearbit.com/AmerihomeMortgage.com,Amerihome Mortgage,Remote,Summer,2023,6933,Provided Laptop,https://westernalliancebank.wd5.myworkdayjobs.com/AMH/2/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+289,https://logo.clearbit.com/AppFolio.com,AppFolio,San Diego,Summer,2022,6933,"$1,000 ($250 / week) housing ",https://www.appfolioinc.com/jobs-openings?ref=levels.fyi
+290,https://logo.clearbit.com/appian.com,Appian,McLean,Summer,2022,6933,"$3,000 if in person housing",https://careers.appian.com/jobs/?search=intern&location=&ref=levels.fyi
+291,https://logo.clearbit.com/Arm.com,Arm,Austin,Summer,2022,6933,Housing: Yes Other Perks: I was offered $37 and I negotiated it to $40 ,https://careers.arm.com/search-jobs?acm=8097040&alrpm=ALL&ascf=%5B%7B%22key%22%3A%22ALL%22%2C%22value%22%3A%22%22%7D%5D&ref=levels.fyi
+292,https://logo.clearbit.com/http:/www.asurion.com/,Asurion,Nashville,Summer,2022,6933,"Fully Accommodated Housing, Flight/Gas Reimbursement transportation, $1,200 Food Stipend.",https://careers.asurion.com/ListJobs/?keyword=Software+Engineer+Intern&fuzzy=false&ref=levels.fyi
+293,https://logo.clearbit.com/https:/www.box.com/,Box,Redwood City,Summer,2023,6933,"$1,000 sign-on bonus, $55 / mo wellness stipend",https://careers.box.com/us/en/search-results?keywords=2021+intern&ref=levels.fyi
+294,https://logo.clearbit.com/CastlightHealth.com,Castlight Health,San Francisco,Summer,2023,6933,,https://www.castlighthealth.com/jobs/category/internships/?ref=levels.fyi
+295,https://logo.clearbit.com/Circle.com,Circle,Boston,Summer,2022,6933,Housing: No,https://www.circle.com/en/careers?ref=levels.fyi
+296,https://logo.clearbit.com/ExtraHopNetworks.com,ExtraHop Networks,Seattle,Summer,2022,6933,"$1,000 housing ",https://www.extrahop.com/company/careers/university/?ref=levels.fyi
+297,https://logo.clearbit.com/Flexport.com,Flexport,Chicago,Summer,2022,6933,,https://boards.greenhouse.io/flexport/?ref=levels.fyi
+298,https://logo.clearbit.com/Foursquare.com,Foursquare,New York City,Summer,2022,6933,"$2,500 housing",https://foursquare.com/careers/?ref=levels.fyi
+299,https://logo.clearbit.com/glassdoor.com,Glassdoor,San Francisco,Summer,2023,6933,,https://www.glassdoor.com/Jobs/Glassdoor-Jobs-E100431.htm?__cf_chl_jschl_tk__=91ac0610e8b22ef100d839e0241b947cf6eea849-1614696068-0-AXjc_bM4bjXwiJgozNXEHsTg9zY6wXt7pLI5SFImMyTLumTgxKID0aKxLEjAdZUWxpjFoea64p6U5FF1WtN9m9LI75JSZvBUg-TTdOVsfanVrJJsqYHsCzp8uUAsgUblRi4VoF7DSFGvHZaStHxKqse9sfw-zx9n67KcCl1akXfuEvu4iP2T2QnQqanFX7mV1d6d6989y061ipefIy-Rlk3iCn3cq49HGxIgePEEeFRpRcX0VqhOsrsAhalfG7C5VFF0fkQGTODvsSc0i9QuTFAgbx_vEnwiurSxYIU-PWMdrwBltmqYmT2KpRRDKdDlL-QlYJLG_bnqg26lzwEUMQYX3iaJEzbr09IoxyXuUWPK-bemmo9ZLXtgFFGam4WcP7zkE76FlGVGEzybkBoiurzgfHaGEPds8YeJJjIGpYeG&ref=levels.fyi
+300,https://logo.clearbit.com/HashiCorp.com,HashiCorp,Remote,Summer,2022,6933,$95 stipend per month for work-from-home equipment,https://www.hashicorp.com/jobs/interns?ref=levels.fyi
+301,https://logo.clearbit.com/HomeX.com,HomeX,Toronto,Summer,2022,6933,Supports fully remote interns,https://homex.com/careers?ref=levels.fyi
+302,https://logo.clearbit.com/Ibotta.com,Ibotta,Remote,Summer,2022,6933,                     Machine Learning                    ,https://home.ibotta.com/work-with-us/careers/?ref=levels.fyi
+303,https://logo.clearbit.com/MarketAxess.com,MarketAxess,New York City,Summer,2022,6933,$60 / hr overtime pay when working over 40hr / week,https://careers.smartrecruiters.com/MarketAxess?ref=levels.fyi
+304,https://i.imgur.com/4qpYrH0.png,MarkLogic,Remote,Fall,2023,6933,,https://www.marklogic.com/company/careers/engineering-internships/?ref=levels.fyi
+305,https://logo.clearbit.com/Mediatek.com,Mediatek,San Jose,Summer,2023,6933,,https://careers.mediatek.com/eREC/JobSearch?searchKey=intern&ref=levels.fyi
+306,https://i.imgur.com/7yovibg.png,MiTek,Denver,Summer,2023,6933,"$1,000 housing, Company Provided transportation",https://mii.wd5.myworkdayjobs.com/MiTek/3/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+307,https://logo.clearbit.com/MUFG.jp,MUFG,Dallas,Summer,2023,6933,,https://jobs.mufgamericas.com/search-jobs/intern/29757-30166/1?glat=59.93429946899414&glon=30.335100173950195&ref=levels.fyi
+308,https://logo.clearbit.com/MyCase.com,MyCase,San Diego,Spring,2022,6933,"$1,040 housing",https://boards.greenhouse.io/mycase?ref=levels.fyi
+309,https://logo.clearbit.com/NewRelic.com,New Relic,San Francisco,Summer,2023,6933,"$5,000 housing, no transportation",https://newrelic.com/about/careers?ref=levels.fyi
+310,https://logo.clearbit.com/NimbleRX.com,NimbleRX,Redwood City,Summer,2022,6933,,https://www.nimblerx.com/careers?ref=levels.fyi
+311,https://imgur.com/T8rqHcq.png,Path Robotics,Columbus,Summer,2022,6933,"$1,500 relocation",https://www.path-robotics.com/careers?ref=levels.fyi
+312,https://logo.clearbit.com/Rev.com,Rev.com,Austin,Summer,2023,6933,,https://www.rev.com/careers?ref=levels.fyi#openings
+313,http://logo.clearbit.com/https:/www.sigmacomputing.com/,Sigma Computing,San Francisco,Fall,2023,6933,,https://www.sigmacomputing.com/careers/?ref=levels.fyi
+314,https://logo.clearbit.com/TDAmeritrade.com,TD Securities,New York City,Summer,2022,6933,"$2,500 housing, $5,000 sign on bonus",https://lensa.com/2022-summer-analyst-software-engineer-jobs/new-york/jd/edb72c4979b71cd58d951537db91cedd?ref=levels.fyi
+315,https://logo.clearbit.com/TheNewYorkTimes.com,The New York Times,New York City,Summer,2023,6933,Swag,https://nytimes.wd5.myworkdayjobs.com/en-US/Intern-Biz?ref=levels.fyi
+316,https://logo.clearbit.com/Thrasio.com,Thrasio,Remote,Summer,2022,6933,,https://www.thrasio.com/company/careers?ref=levels.fyi
+317,https://logo.clearbit.com/Uplift.com,Uplift,Toronto,Summer,2023,6933,"No housing, no transportation, Lunch Reimbursement up to $20",https://jobs.lever.co/uplift?ref=levels.fyi
+318,https://logo.clearbit.com/veeva.com,Veeva,Pleasanton,Summer,2022,6933,,https://jobs.lever.co/veeva/?commitment=Internship&ref=levels.fyi
+319,https://logo.clearbit.com/Verisk.com,Verisk,Jersey City,Summer,2022,6933,"$2,500 lump sum housing.",https://careers.smartrecruiters.com/Verisk/?search=intern&ref=levels.fyi
+320,https://logo.clearbit.com/Vimeo.com,Vimeo,New York City,Summer,2022,6933,,https://vimeo.com/jobs?ref=levels.fyi
+321,https://i.imgur.com/z78iQCd.png,Vistaprint,Remote,Summer,2022,6933,,https://jobs.vistaprint.com/search/?createNewAlert=false&q=intern&optionsFacetsDD_country=&optionsFacetsDD_facility=&optionsFacetsDD_department=&locationsearch=&ref=levels.fyi
+322,https://logo.clearbit.com/https:/volleythat.com/,Volley,San Francisco,Summer,2022,6933,"None housing, $300 transportation, Flights, $300 food",https://angel.co/company/volley/jobs?ref=levels.fyi
+323,https://logo.clearbit.com/TheWaltDisneyCompany.com,Walt Disney Company,Los Angeles,Summer,2022,6933,"Housing provided housing, $6,500 sign-on bonus, free admission to parks, guest passes, up to 50% off in shops, etc.",https://jobs.disneycareers.com/search-jobs/intern/391-28648/1?glat=59.93863&glon=30.31413&ref=levels.fyi
+324,https://logo.clearbit.com/WellsFargo.com,Wells Fargo,San Francisco,Summer,2022,6933,"$2,500 total housing",https://www.wellsfargojobs.com/search-jobs/intern?orgIds=1251&kt=1&ref=levels.fyi
+325,https://logo.clearbit.com/WeWork.com,WeWork,New York City,Summer,2022,6933,WeWork Membership,https://careers.wework.com/job-search-results/?location=intern&latitude=&longitude=&state=&country=&radius=25&statewide=&nationwide=&keyword=&fuzzy=&ref=levels.fyi
+326,https://logo.clearbit.com/Workiva.com,Workiva,Remote,Summer,2022,6933,,https://workiva.wd1.myworkdayjobs.com/careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+327,https://logo.clearbit.com/Zuora.com,Zuora,Remote,Summer,2022,6933,,https://jp.zuora.com/careers-search-jobs/?ref=levels.fyi
+328,https://logo.clearbit.com/AMD.com,AMD,Austin,Summer,2022,6760,GPU Purchase Program,https://jobs.amd.com/search/?q=&q2=&alertId=&locationsearch=&title=2022&location=&ref=levels.fyi
+329,https://imgur.com/PEVQkOe.png,Analog Devices,Boston,Summer,2023,6760,"$900 housing, $500 transportation",https://careers.analog.com/c/engineering-jobs?ref=levels.fyi
+330,https://logo.clearbit.com/Deloitte.com,Deloitte,Austin,Summer,2022,6760,,https://www2.deloitte.com/ie/en/pages/careers/articles/summer-intern-programme.html?ref=levels.fyi
+331,https://logo.clearbit.com/Groq.com,Groq,Toronto,Fall,2023,6760,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+332,https://logo.clearbit.com/PWC.com,PwC,New York City,Summer,2022,6760,,https://jobs.us.pwc.com/search-jobs/intern/932/1?fl=6252001%2C4566966&ref=levels.fyi
+333,https://logo.clearbit.com/https:/us.pg.com/,P&G,Cincinnati,Summer,2022,6737,"Company subsidized housing, Company subsidized transportation",https://www.pgcareers.com/search-jobs?k=Intern&ascf=%5B%7B%27key%27%3A%27custom_fields.Language%27%2C%27value%27%3A%27English%27%7D%2C%5D&alp=6252001&alt=2&ref=levels.fyi
+334,https://logo.clearbit.com/https:/www.micron.com/,Micron Technology,Longmont,Summer,2022,6679,Corporate housing,https://jobs.micron.com/search/?createNewAlert=false&q=2021+intern&locationsearch=US&ref=levels.fyi
+335,https://imgur.com/b1SrRq0.png,Wish,Toronto,Summer,2022,6628,"$500 CAD remote working bonus (one time), $50 USD / mo in Wish cash, $75 USD / mo in fitness reimbursement",https://www.wish.com/careers/university?hide_login_modal=true&ref=levels.fyi
+336,https://logo.clearbit.com/ADP.com,ADP,Roseland,Summer,2022,6587,,https://jobs.adp.com/job-search-results/?category%5B%5D=Intern%2FCo-Op&language=en&location=United+States&country=US&radius=200&ref=levels.fyi
+337,https://logo.clearbit.com/AllianceBernstein.com,AllianceBernstein,Nashville,Summer,2022,6587,,https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+338,https://logo.clearbit.com/Arista.com,Arista Networks,Austin,Summer,2022,6587,"$2,000 housing. ",https://www.arista.com/en/careers?ref=levels.fyi
+339,https://imgur.com/vTf3hOR.png,AT&T,Middletown,Summer,2022,6587,"$2,500 Sign-on Bonus",https://www.att.jobs/technology-development-program?ref=levels.fyi#internship
+340,https://logo.clearbit.com/Mathworks.com,Mathworks,Natick,Summer,2022,6587,"$2,000 relocation bonus",https://www.mathworks.com/company/jobs/opportunities/search?%3Fjob_type_id%255b%255d=1755&posting_org_id%5B%5D=1&posting_team_id%5B%5D=18&posting_team_id%5B%5D=22&posting_team_id%5B%5D=21&posting_team_id%5B%5D=20&job_type_id%5B%5D=1755&ref=levels.fyi
+341,https://logo.clearbit.com/RedHat.com,Red Hat,Raleigh,Summer,2022,6587,,https://careers-redhat.icims.com/jobs/search?ss=1&searchKeyword=internship&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=180&jun1offset=240&ref=levels.fyi
+342,https://logo.clearbit.com/Spotify.com,Spotify,New York City,Summer,2023,6587,,https://www.spotifyjobs.com/students?ref=levels.fyi
+343,https://logo.clearbit.com/Striveworks.com,Striveworks,Austin,Summer,2022,6587,,https://boards.greenhouse.io/striveworks?ref=levels.fyi
+344,https://logo.clearbit.com/Teradyne.com,Teradyne,North Reading,Fall,2023,6587,,https://jobs.teradyne.com/search/?q=&q2=&alertId=&title=intern&location=&department=&facility=&ref=levels.fyi
+345,https://logo.clearbit.com/yahoo.com,Yahoo!,Dulles,Summer,2022,6587,"$5,500 housing",https://vzbuilders.wd5.myworkdayjobs.com/careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+346,https://logo.clearbit.com/Cisco.com,Cisco,San Jose,Summer,2022,6554,"Corporate housing, $8,000 Sign on bonus, 401k, Overtime rates (1.5 and 2.0). PTO: If you’re a co-op, you can earn up to 20 days of PTO, plus you get 10 paid holidays each year. You can also take your birthday off with pay! Interns accrue Paid Sick Leave at a rate of one hour for every 30 hours worked.",https://jobs.cisco.com/jobs/SearchJobs/Summer%202022?ref=levels.fyi
+347,https://logo.clearbit.com/bankofamerica.com,Bank of America,Charlotte,Summer,2022,6500,"$3,400 Sign-on bonus",https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/candidate/jobboard/vacancy/1/adv/?ftq=2022&ref=levels.fyi
+348,https://logo.clearbit.com/https:/www.cboe.com/,Cboe Global Markets,Chicago,Summer,2023,6500,401k - 2:1 company match,https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+349,https://logo.clearbit.com/Thumbtack.com,Thumbtack,New York City,Summer,2022,6500,$3000 Signing Bonus + $650 WFH ,https://www.thumbtack.com/careers/?ref=levels.fyi
+350,https://logo.clearbit.com/Akamai.com,Akamai,Santa Clara,Summer,2022,6413,,https://akamaicareers.inflightcloud.com/search?searchable=%5B%7B%22id%22%3A%22340100106951%22%2C%22text%22%3A%22University%22%2C%22portal%22%3A%228200106849%22%2C%22filterId%22%3A%22JOB_FIELD%22%7D%5D&section=aka_ext&ref=levels.fyi
+351,https://logo.clearbit.com/BrightHealth.com,Bright Health,Austin,Summer,2022,6413,,https://boards.greenhouse.io/brighthealthgroup?ref=levels.fyi
+352,https://logo.clearbit.com/http:/www.us.dimensional.com/,Dimensional Funds Advisor,Austin,Summer,2022,6413,"$1,500 housing, $1,000 stipend",https://dimensional.wd5.myworkdayjobs.com/DFA_Campus?ref=levels.fyi
+353,https://imgur.com/3kUUwiL.png,Ericsson,Plano,Summer,2022,6413,                     Integration Engineer                    ,https://jobs.ericsson.com/search/?createNewAlert=false&q=Internship&locationsearch=United+States&optionsFacetsDD_customfield1=&ref=levels.fyi
+354,https://logo.clearbit.com/Lumentum.com,Lumentum,San Jose,Summer,2023,6413,"No housing, no transportation",https://lumentum.wd5.myworkdayjobs.com/LITE/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+355,https://logo.clearbit.com/Motorola.com,Motorola,Chicago,Summer,2022,6413,Corporate housing,https://motorolasolutions.wd5.myworkdayjobs.com/Careers/5/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+356,https://i.imgur.com/tbrxKJl.png,Qualtrics,Provo,Summer,2022,6413,$600 housing,https://www.qualtrics.com/careers/us/en/search-results?m=3&keywords=summer+intern&ref=levels.fyi
+357,https://imgur.com/R7H4za4.png,Sage Bionetworks,Seattle,Spring,2023,6413,Company provided transportation,https://sagebionetworks.org/open-positions/?ref=levels.fyi
+358,https://logo.clearbit.com/Vanguard.com,Vanguard,Malvern,Summer,2022,6413,"Corporate (College Dorms) housing or $2,000 stipend",https://www.vanguardjobs.com/job-search-results/?keyword=college+to+corporate&level%5B%5D=Student+%26+Recent+Graduates&ref=levels.fyi
+359,https://logo.clearbit.com/http:/www.veritas.com/,Veritas,Roseville,Summer,2023,6413,,https://veritas.wd1.myworkdayjobs.com/careers/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+360,https://logo.clearbit.com/Visa.com,Visa,Austin,Summer,2022,6413,"$4,000 housing",https://usa.visa.com/careers.html?ref=levels.fyi
+361,https://logo.clearbit.com/Ford.com,Ford,Ann Arbor,Summer,2022,6400,,https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=searchResults&SearchType=linkquery&LinkID=3974233&ref=levels.fyi#keyWordSearch=intern
+362,https://imgur.com/I7sReBk.png,Deliverr,Remote,Summer,2022,6301,,https://deliverr.com/careers/?ref=levels.fyi
+363,https://logo.clearbit.com/RedVentures.com,Red Ventures,Charlotte,Summer,2022,6283,,https://careers.redventures.com/positions.html?team=college&office=&brand=&ref=levels.fyi
+364,https://i.imgur.com/JXCem1L.png,ASML,San Jose,Summer,2023,6240,"$2,400 housing; Junior-year student fixed wage: $32.75 / hr",https://www.asml.com/en/careers/internships?ref=levels.fyi
+365,https://logo.clearbit.com/Blizzard.com,Blizzard,Irvine,Summer,2023,6240,"$10,000 living stipend, corporate housing and round-trip flights if in-person.",https://careers.blizzard.com/global/en/c/internships-jobs?ref=levels.fyi
+366,https://logo.clearbit.com/BloomEnergy.com,BloomEnergy,Remote,Summer,2023,6240,,https://phh.tbe.taleo.net/phh02/ats/careers/jobSearch.jsp?org=BLOOMENERGY&cws=1&ref=levels.fyi
+367,https://logo.clearbit.com/chewy.com,Chewy,Boston,Summer,2022,6240,"$4,500 lumpsum housing",https://www.chewy.com/jobs/?ref=levels.fyi
+368,https://logo.clearbit.com/CreditSuisse.com,Credit Suisse,Raleigh,Summer,2022,6240,"One time stipend of $1,200, Overtime $54",https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl?ref=levels.fyi
+369,https://logo.clearbit.com/Grainger.com,Grainger,Chicago,Summer,2022,6240,Corporate housing. ,https://jobs.grainger.com/search/?q=intern&q2=&alertId=&locationsearch=&title=intern&location=&date=&ref=levels.fyi
+370,https://logo.clearbit.com/Lutron.com,Lutron,Philadelphia,Summer,2022,6240,"$1,500 transition allowance ",https://careers.lutron.com/search-jobs/?city=&state=&country=&category=&keyword=intern&ref=levels.fyi#search-results
+371,https://logo.clearbit.com/NXP.com,NXP,Austin,Summer,2023,6240,,https://nxp.wd3.myworkdayjobs.com/careers/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+372,https://imgur.com/NTLu96V.png,OmniVision Technologies,Santa Clara,Summer,2022,6240,Relocation: Company Provided  Other Perks: Remote. Needed to put preferred wage on form (no reference to what range of wages available). ,https://www.ovt.com/company/careers/?ref=levels.fyi
+373,https://logo.clearbit.com/Verizon.com,Verizon,Dulles,Summer,2023,6240,"$5,500 housing",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+374,https://logo.clearbit.com/https:/www.westmonroepartners.com,West Monroe,Chicago,Summer,2022,6240,,https://www.wayup.com/s/internships/engineering/?ref=levels.fyi
+375,https://i.imgur.com/GWHUimO.png,Johns Hopkins Applied Physics Lab,Baltimore,Summer,2022,6231,Company Provided transportation,https://www.jhuapl.edu/Careers/Internships?ref=levels.fyi
+376,https://logo.clearbit.com/OSIsoft.com,OSIsoft,Philadelphia,Summer,2022,6197,"Company Provided transportation to Internship location if >50 miles from University, $4,000 bonus for expenses during internship.",https://osisoft.wd1.myworkdayjobs.com/osisoft_careers/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+377,https://logo.clearbit.com/Acorns.com,Acorns,Remote,Summer,2022,6067,,https://www.acorns.com/career-opportunities/?ref=levels.fyi
+378,https://logo.clearbit.com/Argo.ai,Argo AI,Pittsburgh,Fall,2023,6067,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+379,https://logo.clearbit.com/BNYMellon.com,BNY Mellon,New York City,Summer,2022,6067,,https://jobs.bnymellon.com/jobs?keywords=intern&page=1&ref=levels.fyi
+380,https://logo.clearbit.com/criver.com,Charles River Development,Burlington,Summer,2022,6067,,https://careers.statestreet.com/global/en/search-results?m=3&keywords=intern&ref=levels.fyi
+381,https://logo.clearbit.com/Commvault.com,Commvault,Tinton Falls,Summer,2023,6067,,https://careers.commvault.com/search-jobs/?keyword=intern&ref=levels.fyi
+382,https://logo.clearbit.com/http:/www.dtcc.com/,DTCC,Boston,Summer,2023,6067,"N/A housing, N/A transportation",https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=intern&ref=levels.fyi
+383,https://logo.clearbit.com/Firstrepublicbank.com,First republic bank,New York City,Summer,2022,6067,,https://careers.firstrepublic.com/?keyword=intern&search-openings=Search+Openings&ref=levels.fyi
+384,https://logo.clearbit.com/FoundryDigital.com,Foundry Digital,Rochester,Summer,2022,6067,"$1,200 housing.",https://boards.greenhouse.io/foundrydigital?ref=levels.fyi
+385,https://logo.clearbit.com/Genesys.com,Genesys,Indianapolis,Summer,2023,6067,,https://genesys.referrals.selectminds.com/page/intern-293?utm_campaign=careers&utm_medium=organicsocial&utm_source=facebook%2Cinstagram%2Clinkedin%2Ctwitter%2Cyoutube&utm_content=1584641921&ref=levels.fyi
+386,https://i.imgur.com/lVWhgvd.png,Hulu,Remote,Summer,2023,6067,"$2,500 housing, 20% off Disneyland + Resorts",https://careers.hulu.com/search-jobs/intern/27593/1?glat=59.93111038208008&glon=30.360719680786133&ref=levels.fyi
+387,https://logo.clearbit.com/Iterable.com,Iterable,San Fransisco,Summer,2023,6067,"Free lunch, full workstation",https://iterable.com/careers/?ref=levels.fyi
+388,https://logo.clearbit.com/Lifion.com,"Lifion, ADP",New York City,Summer,2023,6067,,https://lifion.com/careers?ref=levels.fyi
+389,https://logo.clearbit.com/Nasdaq.com,Nasdaq,Sheldon,Summer,2023,6067,"None housing, None transportation, Swag (water bottles, socks, laptop)",https://www.nasdaq.com/about/careers/nasdaq-futures-internship-program?ref=levels.fyi
+390,https://logo.clearbit.com/Neo4J.com,Neo4J,Remote,Spring,2023,6067,"No housing, no transportation, Work From Home Stipend of $500",https://neo4j.com/careers/?job=intern&ref=levels.fyi
+391,https://logo.clearbit.com/https:/www.pax.com/,Pax Labs,San Francisco,Summer,2023,6067,,https://www.pax.com/pages/careers?ref=levels.fyi
+392,https://logo.clearbit.com/Salsify.com,Salsify,Boston,Fall,2023,6067,,https://www.salsify.com/careers/current-listings?ref=levels.fyi
+393,https://i.imgur.com/da76PpT.png,SailPoint Technologies,Remote,Summer,2023,6067,Airpods,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+394,https://logo.clearbit.com/SimpliSafe.com,SimpliSafe,Boston,Summer,2023,6067,,https://careers.simplisafe.com/search/?department=engineering&ref=levels.fyi#results
+395,https://logo.clearbit.com/Sonos.com,Sonos,Santa Barbara,Summer,2023,6067,$250 stipend for work from home,https://sonos.wd1.myworkdayjobs.com/Sonos/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+396,https://logo.clearbit.com/TopHat.com,Top Hat,Toronto,Fall,2023,6067,$500 WFH Stipend,https://tophat.com/company/work-with-us/?ref=levels.fyi
+397,https://logo.clearbit.com/https:/www.troweprice.com,T. Rowe Price,Baltimore,Summer,2022,6067,"$3,000 Sign on bonus",https://troweprice.wd5.myworkdayjobs.com/TRowePrice/3/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+398,https://logo.clearbit.com/https:/www.united.com/,United Airlines,Chicago,Summer,2023,6067,"Unlimited standby travel on United flights, certain tickets 20% off. Health insurance.",https://www.united.com/ual/en/us/fly/company/career/operations.html?ref=levels.fyi
+399,https://logo.clearbit.com/Viasat.com,Viasat,Carlsbad,Summer,2022,6067,"$4,400 lumpsum OR corporate housing, Campus cafeteria, tech talks, possible trip to Legoland. $2,200 Relocation.",https://careers.viasat.com/careers/SearchJobs/intern?ref=levels.fyi
+400,https://logo.clearbit.com/Walmart.com,Walmart Labs,Seattle,Summer,2023,6067,"Supposed to be $10,000 for relocation if in person; Medical + dental, guaranteed sales associate position if needed",https://careers.walmart.com/results?q=&page=1&sort=rank&jobBrand=0000015f-923b-d8cb-a17f-9afff80c0000&jobEmploymentType=0000015a-721c-de53-ab7e-767e668d0000&expand=department%2Cbrand%2Ctype%2Crate&jobCareerArea=all&ref=levels.fyi
+401,https://logo.clearbit.com/Walmart.com,Walmart,Sunnyvale,Summer,2022,6067,"Corporate housing, Company Provided transportation",https://walmart.wd5.myworkdayjobs.com/en-us/walmartexternal/job/us-ar-bentonville-home-office-isd-office---dgtc/xmlname-2022-summer-intern--software-engineer-ii_r-682495?ref=levels.fyi
+402,https://logo.clearbit.com/WHOOP.com,WHOOP,Boston,Fall,2023,6067,"Free snacks in office, free lunch on Fridays",https://www.whoop.com/careers/?ref=levels.fyi
+403,https://logo.clearbit.com/Workboard.com,Workboard,Redwood City,Summer,2023,6067,,https://www.workboard.com/jobs/?ref=levels.fyi
+404,https://logo.clearbit.com/CharlesSchwab.com,Charles Schwab,Westlake,Summer,2022,5893,"$2,000 transportation",https://career-schwab.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all&searchCategory=17398&ref=levels.fyi
+405,https://logo.clearbit.com/Formlabs.com,Formlabs,Medford,Summer,2022,5893,Unlimited 3D printing and catered lunches.,https://careers.formlabs.com/internships/?ref=levels.fyi#job-listings
+406,https://logo.clearbit.com/Lululemon.com,Lululemon,Remote,Fall,2023,5893,60% off all in store and online items,https://careers.lululemon.com/en_US/careers/SearchCareer/intern?jobRecordsPerPage=10&ref=levels.fyi
+407,https://logo.clearbit.com/Microsoft.com,Microsoft Explore,Redmond,Summer,2022,5893,"$7,000 lump-sum OR corporate housing, $1200 lump-sum OR Long-term rental transportation, Bus pass, Health Club, Medical, Software Discounts, Visa Assistance, Relocation Benefits",https://careers.microsoft.com/students/us/en/us-explore-microsoft-results?ref=levels.fyi
+408,https://logo.clearbit.com/DeutscheBank.com,Deutsche Bank,New York City,Summer,2023,5833,,https://www.db.com/careers/en/grad/role-search/job_search_results.html?ref=levels.fyi#searchrole=Technology
+409,https://logo.clearbit.com/IBMResearch.com,IBM Research,Yorktown Heights,Summer,2023,5807,,https://www.research.ibm.com/artificial-intelligence/careers/indexz.shtml?ref=levels.fyi
+410,https://logo.clearbit.com/Mattermost.com,Mattermost,Remote,Winter,2022,5807,,https://mattermost.com/careers/?ref=levels.fyi
+411,https://logo.clearbit.com/http:/www.skyworksinc.com/,Skyworks Solutions,Cedar Rapids,Spring,2023,5749,"No housing, no transportation, Master's student",https://careers.skyworksinc.com/search/?createNewAlert=false&q=intern&locationsearch=&ref=levels.fyi
+412,https://logo.clearbit.com/Amplitude.com,Amplitude,Vancouver,Fall,2023,5741,,https://boards.greenhouse.io/amplitude?ref=levels.fyi
+413,https://logo.clearbit.com/AbbVie.com,AbbVie,Chicago,Spring,2023,5720,"No housing, no transportation",https://careers.abbvie.com/abbvie/jobs?page=1&experienceLevels=Internship&keywords=2022&sortBy=relevance&ref=levels.fyi
+414,https://logo.clearbit.com/Carrier.com,Carrier,Syracuse,Summer,2023,5720,$700 housing,https://jobs.carrier.com/search-jobs/intern?orgIds=29289&kt=1&ref=levels.fyi
+415,https://logo.clearbit.com/Infosys.com,Infosys,Remote,Summer,2022,5720,,https://www.infosys.com/careers/apply.html?ref=levels.fyi
+416,https://logo.clearbit.com/RepTrak.com,RepTrak,Boston,Winter,2022,5720,,https://www.reptrak.com/careers/?ref=levels.fyi
+417,https://logo.clearbit.com/Allstate.com,Allstate,Irving,Summer,2022,5668,,https://www.allstate.jobs/job-search-results/?keyword=intern&ref=levels.fyi
+418,https://logo.clearbit.com/Schlumberger.com,Schlumberger,Houston,Summer,2022,5657,"Corporate housing, Company Provided transportation and relocation- Flights ",https://careers.slb.com/?ref=levels.fyi
+419,https://logo.clearbit.com/mitchell.com/,Mitchell International,San Diego,Summer,2023,5633,"Overtime, gym, volunteer time off, enrolled in 401K",https://careers-mitchell.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+420,https://i.imgur.com/V8gqTsS.png,Text-Em-All,Frisco,Spring,2022,5564,,https://www.text-em-all.com/careers?ref=levels.fyi#join-our-team
+421,https://logo.clearbit.com/Accenture.com,Accenture,San Francisco,Summer,2022,5547,"$7,500 bonus housing. ",https://www.accenture.com/us-en/careers/jobsearch?jk=intern&sb=0&pg=1&is_rj=0&ref=levels.fyi
+422,https://logo.clearbit.com/Alarm.com.com,Alarm.com,Remote,Summer,2023,5547,"No housing, no transportation",https://www.alarm.com/about/open-positions.aspx?ref=levels.fyi
+423,https://logo.clearbit.com/Avanade.com,Avanade,Los Angeles,Summer,2023,5547,"Company Swag, Company Laptop",https://careers.avanade.com/jobs/SearchJobs/intern?ref=levels.fyi
+424,https://logo.clearbit.com/http:/www.Bandwidth.com,Bandwidth,Raleigh,Summer,2022,5547,,https://www.bandwidth.com/careers/openings/?ref=levels.fyi
+425,https://logo.clearbit.com/https:/www.braincorp.com,Brain,Remote,Summer,2023,5547,"No housing, no transportation",https://www.braincorp.com/company/careers/?ref=levels.fyi
+426,https://logo.clearbit.com/CapitalGroup.com,Capital Group,Irvine,Summer,2023,5547,"$4,000 sign-on bonus, $3,000 for relocation",https://jobs.capitalgroup.com/search/?q=&q2=&alertId=&locationsearch=&title=intern&location=&date=&ref=levels.fyi
+427,https://logo.clearbit.com/CMEGroup.com,CME Group,Chicago,Summer,2022,5547,,https://jobs.cmegroup.com/jobs/search?q=intern&location=&ns_dist=25&ns_mk=mi&ref=levels.fyi
+428,https://logo.clearbit.com/Comcast.com,Comcast,Philidelphia,Summer,2022,5547,                     Cloud Security                    ,https://comcast.jibeapply.com/university-relations/jobs?page=1&ref=levels.fyi
+429,https://logo.clearbit.com/Experian.com,Experian,Remote,Summer,2022,5547,Housing: No,https://careers.smartrecruiters.com/Experian?ref=levels.fyi
+430,https://logo.clearbit.com/fidelityinvestments.com,Fidelity Investments,Durham,Summer,2022,5547,,https://jobs.fidelity.com/job-search-results/?keyword=intern&ref=levels.fyi
+431,https://logo.clearbit.com/GeneralDynamicsMissionSystems.com,General Dynamics Mission Systems,Scottsdale,Summer,2022,5547,Housing: No,https://gdmissionsystems.com/careers/job-search?state=eyJ3aGF0IjoiaW50ZXJuIiwid2hlcmUiOiIiLCJJc1Rlc3RNb2RlIjoiIiwiYWRkcmVzcyI6IltdIn0%3D&ref=levels.fyi
+432,https://logo.clearbit.com/Mailchimp.com,Mailchimp,Atlanta,Summer,2022,5547,,https://mailchimp.com/jobs/?ref=levels.fyi
+433,https://logo.clearbit.com/Markforged.com,Markforged,Watertown,Summer,2022,5547,"$1,000 housing",https://boards.greenhouse.io/markforged?ref=levels.fyi
+434,https://logo.clearbit.com/PrudentialFinancial.com,Prudential Financial,Newark,Summer,2023,5547,,https://jobs.prudential.com/us-en/early-talent/programs/internships?ref=levels.fyi
+435,https://logo.clearbit.com/RelativitySpace.com,Relativity Space,Long Beach,Summer,2022,5547,,https://www.relativityspace.com/internships?ref=levels.fyi
+436,https://logo.clearbit.com/Scholastic.com,Scholastic,New York City,Summer,2023,5547,"No housing, no transportation",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+437,https://logo.clearbit.com/ToyotaConnected.com,Toyota Connected,Plano,Summer,2022,5547,"$5,000 housing, Relocation of $750 transportation, Free lunch if onsite ",https://www.toyotaconnected.com/careers?ref=levels.fyi
+438,https://logo.clearbit.com/citrix.com,Citrix,Fort Lauderdale,Summer,2022,5533,"$3,000 lumpsum housing",https://jobs.citrix.com/search-results?m=3&keywords=intern&ref=levels.fyi
+439,https://imgur.com/kqehiU0,Balbix,San Jose,Summer,2022,5500,,https://www.balbix.com/company/careers/?ref=levels.fyi
+440,https://logo.clearbit.com/citi.com,Citi,Toronto,Summer,2022,5460,"$2,000 CAD one time stipend",https://features.citi.com/?ref=levels.fyi
+441,https://logo.clearbit.com/https:/www.aa.com,American Airlines,Dallas,Summer,2023,5373,"$2,000 Relocation Allowance",https://jobs.aa.com/go/Student-&-Grads/8180200/?ref=levels.fyi
+442,https://logo.clearbit.com/Braintree.com,Braintree,Austin,Summer,2023,5373,"No housing, no transportation, Matched via PayPal",https://www.braintreepayments.com/careers?ref=levels.fyi#positions
+443,https://logo.clearbit.com/Mark43.com,Mark43,Remote,Summer,2023,5373,"WFH stipend, education stipend, home office stipend, personal device stipend",https://www.mark43.com/departments/engineering/?ref=levels.fyi#jobs
+444,https://logo.clearbit.com/https:/NetApp.com/,NetApp,Boulder,Summer,2023,5373,One time $500 remote-work stipend,https://netapp.eightfold.ai/careers?pid=9992150&query=intern&domain=netapp.com&triggerGoButton=true&ref=levels.fyi
+445,https://logo.clearbit.com/https:/www.siemens-healthineers.com/,Siemens Healthineers,Malvern,Summer,2023,5373,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+446,https://logo.clearbit.com/98point6.com,98point6,Seattle,Summer,2023,5200,Company Provided transportation,https://www.98point6.com/about/careers/?ref=levels.fyi#open-roles
+447,https://logo.clearbit.com/Arity.com,Arity,Chicago,Summer,2023,5200,"Housing available if COIVD goes away, return intern",https://www.arity.com/company/careers/?ref=levels.fyi
+448,https://logo.clearbit.com/BAESystems.com,BAE Systems,Nashua,Summer,2022,5200,,https://www.bandwidth.com/careers/openings/?__cf_chl_captcha_tk__=bnb5MnSGyqA_tw97wsunYhlX.Wz0s82twJPRxdUiuvM-1637773501-0-gaNycGzNCL0&ref=levels.fyi
+449,https://logo.clearbit.com/Bentley.com,Bentley,Remote,Summer,2022,5200,"No housing, no transportation",https://jobs.bentley.com/search/?searchby=location&createNewAlert=false&q=intern&locationsearch=&geolocation=&ref=levels.fyi
+450,https://logo.clearbit.com/Carmax.com,CarMax,Richmond,Summer,2022,5200,"$2,500 lumpsum housing, 401k match (6%)",https://careers.carmax.com/us/en/search-results?keywords=intern&ref=levels.fyi
+451,https://logo.clearbit.com/Centro.net,Centro,Chicago,Summer,2023,5200,,https://jobs.lever.co/centro?ref=levels.fyi
+452,https://logo.clearbit.com/Cepheid.com,Cepheid,Sunnyvale,Summer,2023,5200,"No housing, no transportation",https://jobs.danaher.com/global/en/cepheid-search-results?ref=levels.fyi
+453,https://logo.clearbit.com/CirrusLogic.com,Cirrus Logic,Remote,Summer,2023,5200,"$833 housing, Buys out PTO",https://www.cirrus.com/careers/jobs/?ref=levels.fyi
+454,https://logo.clearbit.com/collinsaerospace.com,Collins Aerospace,Cedar Rapids,Summer,2022,5200,"$4,000 lump sum + provided corporate housing. ",https://jobs.collinsaerospace.com/search-jobs?orgIds=1738&ac=617&ref=levels.fyi
+455,https://logo.clearbit.com/CurriculumAssociates.com,Curriculum Associates,Remote,Winter,2023,5200,,https://jobs.jobvite.com/careers/curriculumassociates/jobs?ref=levels.fyi
+456,https://logo.clearbit.com/Cvent.com,Cvent,McLean,Summer,2023,5200,"No housing, no transportation",https://www.cvent.com/en/careers/open-positions?ref=levels.fyi
+457,https://logo.clearbit.com/DirecTV.com,DirecTV,Remote,Summer,2023,5200,,https://jobs.directv.com/search-jobs/intern/390/1?ref=levels.fyi
+458,https://logo.clearbit.com/ElectronicArts.com,Electronic Arts,Los Angeles,Summer,2022,5200,$500 WFH Stipend housing,https://ea.gr8people.com/jobs?page=1&inp1377=2&keyword=intern&ref=levels.fyi
+459,https://logo.clearbit.com/https:/www.elliottmgmt.com/,Elliot Management,New York City,Summer,2022,5200,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+460,https://i.imgur.com/rdsdyxX.png,eMetric,Remote,Summer,2023,5200,"No housing, no transportation",https://www.emetric.net/careers?ref=levels.fyi
+461,https://logo.clearbit.com/https:/www.equinix.com/,Equinix,Redwood,Summer,2023,5200,,https://equinix.wd1.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+462,https://logo.clearbit.com/FannieMae.com,Fannie Mae,Plano,Summer,2023,5200,"$1,500 lumpsum housing",https://www.fanniemae.com/careers/search-all-jobs?ref=levels.fyi
+463,https://logo.clearbit.com/GEAviation.com,GE Aviation,Cincinnati,Summer,2022,5200,$600 housing,https://jobs.gecareers.com/aviation/global/en/search-results?ref=levels.fyi
+464,https://logo.clearbit.com/GeneralMotors.com,General Motors,Warren,Summer,2022,5200,"$3,000 one-time housing/travel, Vehicle Discounts, PTO",https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+465,https://logo.clearbit.com/KeepTruckin.com,KeepTruckin,Toronto,Winter,2023,5200,,https://keeptruckin.com/careers?ref=levels.fyi
+466,https://logo.clearbit.com/KPMG.com,KPMG,Dallas,Summer,2023,5200,Laptop and swag,https://www.kpmgcampus.com/campus/SearchResults/?17038=6357327&17038_format=8765&listFilterMode=1&ref=levels.fyi
+467,https://logo.clearbit.com/LucidMotors.com,Lucid Motors,Utah,Summer,2022,5200,$500 housing. ,https://www.lucidmotors.com/careers/search/?keyword=intern&ref=levels.fyi
+468,https://logo.clearbit.com/Lytx.com,Lytx,San Diego,Summer,2022,5200,,https://lytx.wd1.myworkdayjobs.com/Lytx/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+469,https://logo.clearbit.com/NCR.com,NCR,Atlanta,Summer,2022,5200,"$2,500 lumpsum housing",https://ncr.wd1.myworkdayjobs.com/ext_us/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+470,https://logo.clearbit.com/https://www.eyesopen.com/,OpenEye Scientific Software,Remote,Summer,2023,5200,,https://www.eyesopen.com/careers?ref=levels.fyi
+471,https://logo.clearbit.com/Optum.com,Optum,Basking Ridge,Summer,2022,5200,Corporate housing,https://careers.unitedhealthgroup.com/job-search-results/?keyword=intern&ref=levels.fyi
+472,https://logo.clearbit.com/Paylocity.com,Paylocity,Remote,Summer,2022,5200,"$1,000 lumpsum housing",https://www.paylocity.com/careers/career-opportunities/early-career/?ref=levels.fyi
+473,https://logo.clearbit.com/PublicisSapient.com,Publicis Sapient,Boston,Summer,2022,5200,,https://careers.publicissapient.com/job-search?q=intern&experienceLevel=Internship&ref=levels.fyi
+474,https://logo.clearbit.com/https:/www.ptc.com/,PTC,Boston,Summer,2023,5200,,https://careers.ptc.com/TGnewUI/Search/Home/Home?partnerid=2&siteid=5213&ref=levels.fyi#keyWordSearch=intern&locationSearch=&Job%20Category=Temp%20%2F%20Intern%20%2F%20Coop
+475,https://logo.clearbit.com/RallyHealth.com,Rally Health,Chicago,Summer,2023,5200,,https://www.rallyhealth.com/careers-all-open-positions?ref=levels.fyi
+476,https://logo.clearbit.com/Relativity.com,Relativity,Chicago,Summer,2022,5200,"Corporate housing, Company Provided transportation",https://jobs.lever.co/relativity?commitment=Intern&ref=levels.fyi
+477,https://logo.clearbit.com/RivetHealth.com,Rivet Health,Salt Lake City,Summer,2023,5200,,https://www.rivethealth.com/careers?ref=levels.fyi
+478,https://logo.clearbit.com/SleepNumber.com,Sleep Number,San Jose,Summer,2022,5200,,https://jobs.sleepnumber.com/search-jobs/intern/1020/1?ref=levels.fyi
+479,https://i.imgur.com/CL9OxTm.png,T-Mobile,Bothell,Fall,2023,5200,ESPP,https://www.tmobile.careers/job-search/?employment_type%5B%5D=Internship&ref=levels.fyi
+480,https://logo.clearbit.com/Target.com,Target,Minneapolis,Summer,2022,5200,"1 flight stipend transportation, 10% Target discount, 20% off fresh produce",https://jobs.target.com/search-jobs/intern/Minneapolis%2C%20MN/6656/1/4/6252001-5037779-5029877-5037649/44x97997/-93x26384/50/2?ref=levels.fyi
+481,https://logo.clearbit.com/TheBoringCompany.com,The Boring Company,Vegas,Summer,2022,5200,,https://www.boringcompany.com/careers?ref=levels.fyi
+482,https://logo.clearbit.com/https:/www.thehartford.com/,The Hartford,Remote,Summer,2023,5200,,https://thehartford.wd5.myworkdayjobs.com/Careers_External/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+483,https://logo.clearbit.com/TheWashingtonPost.com,The Washington Post,Remote,Summer,2022,5200,                     Devops Engineer                    ,https://jobs.washingtonpost.com/employer/8541/the-washington-post/?ref=levels.fyi
+484,https://logo.clearbit.com/Trimble.com,Trimble,Westminster,Summer,2022,5200,,https://trimble.wd1.myworkdayjobs.com/trimblecareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+485,https://i.imgur.com/ApCl1Ii.png,Unqork,New York City,Summer,2023,5200,,https://boards.greenhouse.io/unqork?hsCtaTracking=9cb2a964-4cdc-402f-8464-b165ab26c753%7C5f3f087b-ff9c-4016-9dca-e73c2662de00&ref=levels.fyi
+486,https://logo.clearbit.com/Urjanet.com,Urjanet,Atlanta,Fall,2022,5200,,https://urjanet.com/about/join-team/?ref=levels.fyi
+487,https://logo.clearbit.com/Xpanse.com,Xpanse,Seattle,Summer,2023,5200,,https://www.xpanse.com/careers?ref=levels.fyi
+488,https://logo.clearbit.com/Zumper.com,Zumper,San Francisco,Summer,2023,5200,SWAG,https://www.zumper.com/careers?ref=levels.fyi#open-positions
+489,https://logo.clearbit.com/WesternDigital.com,Western Digital,Milpitas,Summer,2023,5183,,http://www.metrolosangelesjobs.com/job/detail/30592942/RAMP-Engineering-Intern-Program-BS-MS?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&ref=levels.fyi
+490,https://i.imgur.com/GY3jdQv.png,BP,Chicago,Summer,2023,5027,"Corporate (non-WFH) / $1,000 / mo stipend (WFH) housing",https://www.bp.com/en/global/corporate/careers/students-and-graduates/locations/united-kingdom/intern-programmes.html?ref=levels.fyi
+491,https://logo.clearbit.com/GeneralAtomics.com,General Atomics,San Diego,Summer,2023,5027,"Corporate housing, company provided transportation ",https://www.ga-careers.com/search-jobs/interns/499/1?ref=levels.fyi
+492,https://logo.clearbit.com/Hitachi.com,Hitachi,Colorado,Summer,2022,5027,,https://careers.hitachi.com/?ref=levels.fyi
+493,https://logo.clearbit.com/https://lucid.co/,Lucid Software,South Jordan,Summer,2023,5027,"No housing, no transportation, Gym Membership",https://lucid.co/careers?ref=levels.fyi
+494,https://logo.clearbit.com/Lumen.com,Lumen,Remote,Summer,2022,5027,,https://jobs.lumen.com/global/en/university-entry-level?ref=levels.fyi
+495,https://logo.clearbit.com/Mastercard.com,Mastercard,O'Fallon,Summer,2022,5027,"$5,000 Sign On Bonus",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+496,https://logo.clearbit.com/RetailBusinessServices.com,Retail Business Services,Mooresville,Spring,2023,5027,,https://www.retailbusinessservices.com/internships?ref=levels.fyi
+497,https://i.imgur.com/L1gzQx6.png,WillowTree,Columbus,Summer,2022,5027,"$2,500 for summer housing, 2 paid days of vacation",https://www.willowtreeapps.com/careers/jobs?category=Intern&name=intern&ref=levels.fyi
+498,https://logo.clearbit.com/Aimsio.com,Aimsio,Calgary,Summer,2023,5001,,https://aimsio.com/careers/?ref=levels.fyi#open-roles
+499,https://logo.clearbit.com/Ocient.com,Ocient,Chicago,Summer,2023,5001,"No housing, no transportation, $3,000 RSUs",https://www.ocient.com/careers?ref=levels.fyi
+500,https://logo.clearbit.com/CDKGlobal.com,CDK Global,San Jose,Summer,2023,4992,"$1,000 signing bonus, Free Snacks",https://jobs.cdkglobal.com/go/Software-Engineer-Jobs/2260900/?q=&q2=&alertId=&locationsearch=&title=intern&location=US&department=&ref=levels.fyi
+501,https://logo.clearbit.com/Dell.com,Dell,Round Rock,Summer,2022,4992,"Corporate housing, Gym, Health Insurance, Future Opportunities, etc.",https://jobs.dell.com/category/internship-jobs/375/24213/1?ref=levels.fyi
+502,https://logo.clearbit.com/Opengear.com,Opengear,Brisbane,Summer,2022,4940,,https://opengear.com/about-us/careers/?ref=levels.fyi
+503,https://logo.clearbit.com/Starlink.com,Starlink,Redmond,Fall,2023,4940,"$900 housing, free coffee and snacks; subsidized lunches",https://www.spacex.com/careers/?department=&ref=levels.fyi
+504,https://logo.clearbit.com/GeneralDynamics.com,General Dynamics,Annapolis Junction,Summer,2023,4878,,https://www.gd.com/careers/job-search?state=eyJ3aGF0IjoiaW50ZXJuIiwid2hlcmUiOiIiLCJJc1Rlc3RNb2RlIjoiIiwibGF0aXR1ZGUiOm51bGwsImxvbmdpdHVkZSI6bnVsbCwiYWRkcmVzcyI6IltdIiwiZmFjZXRzIjpbXX0%3D&ref=levels.fyi
+505,https://logo.clearbit.com/3M.com,3M,St Paul,Summer,2023,4853,"Corporate housing, Company Provided transportation",https://3m.wd1.myworkdayjobs.com/Search/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+506,https://logo.clearbit.com/https:/www.abbott.com/,Abbott Laboratories,Plymouth,Summer,2022,4853,Provided Depending on Location housing and transportation,https://www.jobs.abbott/us/en/search-results?keywords=intern&ref=levels.fyi
+507,https://logo.clearbit.com/CountryFInancial.com,Country FInancial,Bloomington,Summer,2023,4853,,https://ccservices.taleo.net/careersection/countrycorporateexternal/jobsearch.ftl?lang=en&ref=levels.fyi#
+508,https://logo.clearbit.com/https:/www.exptechinc.com/,Expedition Technology,Herndon,Summer,2022,4853,,https://www.exptechinc.com/pages/careers/?ref=levels.fyi
+509,https://logo.clearbit.com/LibertyMutual.com,Liberty Mutual,Indianapolis,Summer,2022,4853,Paid federal holidays.,https://jobs.libertymutualgroup.com/search-jobs/?keyword=2022&level=Campus&ref=levels.fyi
+510,https://logo.clearbit.com/https:/www.lids.com/,Lids,Indianapolis,Summer,2023,4853,$300 WFH stipend,https://careers.lids.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_location=&optionsFacetsDD_country=&optionsFacetsDD_state=&ref=levels.fyi
+511,https://logo.clearbit.com/Manulife.com,Manulife,Waterloo,Winter,2022,4853,Housing: No,https://jobs.manulife.com/en-us/ListJobs?Keyword=intern&ref=levels.fyi
+512,https://logo.clearbit.com/MetLife.com,MetLife,Cary,Summer,2022,4853,,https://jobs.metlife.com/search/?q=&q2=&alertId=&locationsearch=&title=intern&location=&date=&ref=levels.fyi
+513,https://logo.clearbit.com/https:/www.pendo.io/,Pendo.io,Cary,Summer,2022,4853,,https://boards.greenhouse.io/pendo?ref=levels.fyi
+514,https://logo.clearbit.com/PrincipalFinancialGroup.com,Principal Financial Group,Des Moines,Summer,2022,4853,"$3,000 net lumpsum housing, City Bus-Travel Card , Wellness Centre",https://careers-principal.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all&searchPositionType=18043&ref=levels.fyi
+515,https://logo.clearbit.com/Qorvo.com,Qorvo,Hillsboro,Summer,2022,4853,,https://www.qorvo.com/careers?ref=levels.fyi
+516,https://logo.clearbit.com/StateFarm.com,State Farm,Bloomington,Summer,2022,4853,"$2,000 taxed bonus paid halfway through internship",https://jobs.statefarm.com/main/jobs?keywords=intern&sortBy=relevance&page=1&ref=levels.fyi
+517,https://logo.clearbit.com/Tektronix.com,Tektronix,Beaverton,Summer,2022,4853,"$1,200 housing",https://careers.fortive.com/tektronix/search-results?keywords=intern&ref=levels.fyi
+518,https://logo.clearbit.com/TIAA.com,TIAA,Charlotte,Summer,2023,4853,"$3,000 housing",https://careers.tiaa.org/global/en/search-results?keywords=intern&ref=levels.fyi
+519,https://logo.clearbit.com/UnitedHealthGroup.com,UnitedHealth Group,Irvine,Summer,2022,4853,Corporate Housing,https://careers.unitedhealthgroup.com/job-search-results/?keyword=intern+software&ref=levels.fyi
+520,https://logo.clearbit.com/WW.com,WW,New York City,Summer,2022,4853,,https://www.weightwatchers.com/uk/careers?ref=levels.fyi
+521,https://imgur.com/e9TaGc2,SMART Technologies,Calgary,Winter,2022,4775,,https://smarttechnologies.hire.trakstar.com/?ref=levels.fyi
+522,https://i.imgur.com/keXiUKS.png,Ernst & Young,Denver,Summer,2022,4749,"No housing, no transportation, $1000 bonus if you finish internship",https://www.ey.com/en_gl/careers/student-entry-level-programs?ref=levels.fyi
+523,https://logo.clearbit.com/EnlightedInc.com,Enlighted,Kitchener,Winter,2023,4749,,https://jobs.siemens.com/jobs?sortBy=relevance&page=1&brand=Smart+Infrastructure&keywords=intern&ref=levels.fyi
+524,https://imgur.com/q3WgzBE,MIT Lincoln Laboratory,Lexington,Spring,2022,4732,Housing: No Transportation: 0  Relocation: 0  Other Perks: remote co-op ,https://careers.ll.mit.edu/?ref=levels.fyi
+525,https://logo.clearbit.com/http:/www.aligntech.com,Align Technology,Remote,Spring,2022,4680,,https://jobs.aligntech.com/jobs?keywords=intern&sortBy=relevance&page=1&ref=levels.fyi
+526,https://logo.clearbit.com/BestBuy.com,Best Buy,Richfield,Summer,2022,4680,"Corporate housing, Best Buy Employee Discount",https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25632&siteid=5798&ref=levels.fyi#keyWordSearch=intern&locationSearch=
+527,https://logo.clearbit.com/Chick-Fil-A.com,Chick-Fil-A,Atlanta,Summer,2022,4680,"$2,000 housing, Free chicken sandwiches, $2,000 housing and relocation stipend.",https://careers-chickfila.icims.com/jobs/search?ss=1&searchPositionType=8710&mobile=false&width=1090&height=500&bga=true&needsRedirect=false&jan1offset=180&jun1offset=240&ref=levels.fyi
+528,https://logo.clearbit.com/http:/www.commscope.com/,CommScope,Shakopee,Summer,2023,4680,,https://jobs.commscope.com/search/?q=&q2=&alertId=&title=Intern+Software&location=&department=&date=&ref=levels.fyi
+529,https://logo.clearbit.com/Cubic.com,Cubic,San Diego,Summer,2023,4680,No housing ,https://www.cubic.com/careers?ref=levels.fyi
+530,https://logo.clearbit.com/Discover.com,Discover,Riverwoods,Summer,2022,4680,"Corporate housing, Company Provided transportation, “Discover swag”",https://jobs.discover.com/job-search/?keyword=intern&ref=levels.fyi
+531,https://logo.clearbit.com/Garmin.com,Garmin,Olathe,Summer,2022,4680,"Corporate housing, accrue PTO, Gym, free events, etc.",https://careers-us.garmin.com/us/en/internship-jobs?ref=levels.fyi
+532,https://logo.clearbit.com/https:/www.gtt.com/,Global Traffic Technologies,Remote,Summer,2023,4680,,https://careers.vontier.com/us/en/global-traffic-technologies?ref=levels.fyi
+533,https://logo.clearbit.com/LockheedMartin.com,Lockheed Martin,Sunnyvale,Summer,2022,4680,"$1,100 housing, Health Benefit",https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?ref=levels.fyi
+534,https://logo.clearbit.com/https:/www.siemens-healthineers.com/,Siemens Healthineers,Waltham,Summer,2022,4680,,https://jobs.siemens.com/healthineers/jobs?page=1&keywords=intern+&sortBy=relevance&ref=levels.fyi
+535,https://logo.clearbit.com/Seeq.com,Seeq,Remote,Summer,2023,4680,,https://www.seeq.com/about/careers?ref=levels.fyi
+536,https://logo.clearbit.com/USFoods.com,US Foods,Roosevelt,Summer,2023,4680,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+537,https://logo.clearbit.com/https:/wpengine.com/,WP Engine,Remote,Summer,2023,4680,,https://wpengine.wd1.myworkdayjobs.com/WP_Engine/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+538,https://logo.clearbit.com/ZebraTechnologies.com,Zebra Technologies,Holtsville,Summer,2023,4680,,https://early-careers-zebra.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+539,https://logo.clearbit.com/UPS.com,UPS,Mahway,Summer,2023,4602,,https://upscareers.jobs/jobs/?q=intern&ref=levels.fyi
+540,https://logo.clearbit.com/Chevron.com,Chevron,San Ramon,Summer,2022,4600,"Corporate housing, Gas lump-sum transportation, $300 Misc. spending, 401(k)",https://chevron.wd5.myworkdayjobs.com/jobs/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+541,https://logo.clearbit.com/Thinkific.com,Thinkific,Vancouver,Spring,2022,4593,"Work from home setup reimbursement ($1,000)",https://www.thinkific.com/careers/?ref=levels.fyi#current-openings
+542,https://logo.clearbit.com/Draper.com,Draper,Cambridge,Spring,2023,4550,,https://careers-draper.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+543,https://logo.clearbit.com/https:/1up.health/,1upHealth,Boston,Fall,2023,4507,$100 / mo for phone,https://jobs.lever.co/1up-health?ref=levels.fyi
+544,https://logo.clearbit.com/BazaarVoice.com,BazaarVoice,Austin,Summer,2023,4507,"No housing, no transportation",https://www.bazaarvoice.com/careers/?ref=levels.fyi
+545,https://logo.clearbit.com/Geico.com,Geico,Washington DC,Summer,2023,4507,,https://careers.geico.com/us/en/search-results?ref=levels.fyi
+546,https://logo.clearbit.com/GeneralElectricPower.com,General Electric,Schenectady,Summer,2022,4507,"$600 housing, Relocation assistance",https://ge.jobs/jobs/?q=2022&ref=levels.fyi
+547,https://logo.clearbit.com/RockwellAutomation.com,Rockwell Automation,Phoenix,Summer,2023,4507,,https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/2/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+548,https://logo.clearbit.com/sabre.com/,Sabre Corporation,Remote,Summer,2023,4507,"No housing, no transportation",https://jobs.sabre.com/search/?searchby=location&createNewAlert=false&q=intern&locationsearch=&geolocation=&optionsFacetsDD_title=&optionsFacetsDD_location=&optionsFacetsDD_department=&optionsFacetsDD_customfield4=&optionsFacetsDD_customfield1=&optionsFacetsDD_city=&optionsFacetsDD_country=&ref=levels.fyi
+549,https://logo.clearbit.com/ThomsonReuters.com,Thomson Reuters,Toronto,Fall,2023,4507,,https://jobs.thomsonreuters.com/ListJobs/All/Search/jobtitle/intern/tr-job-function/interns/?ref=levels.fyi
+550,https://logo.clearbit.com/UnionPacific.com,Union Pacific,Omaha,Summer,2023,4507,Corporate housing,https://up.jobs/search-jobs.html?keyWords=intern&category=&city=&state=&zipcode=&deptIds=&hrngType=&ref=levels.fyi
+551,https://logo.clearbit.com/Wabtec.com,Wabtec,Erie,Summer,2023,4507,"Corporate housing, salary increases by class year. Freshman salary: $23 / hr",https://wabtec.wd1.myworkdayjobs.com/wabtec_careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+552,https://logo.clearbit.com/Honda.com,Honda,Columbus,Summer,2022,4500,Company Provided relocation,https://hondana.taleo.net/careersection/ah_ext/jobsearch.ftl?lang=en&ref=levels.fyi
+553,https://logo.clearbit.com/https:/www.afrl.af.mil,Air Force Research Laboratory,Albuquerque,Summer,2023,4437,"No housing, no transportation, Secret Security Clearance",https://afresearchlab.com/careers-and-opportunities/students-and-faculty/?ref=levels.fyi
+554,https://i.imgur.com/cYhs1n4.png,Ada Support,Toronto,Fall,2023,4420,"No housing, no transportation",https://jobs.lever.co/ada?utm_source=ada_website&utm_medium=organic&__hstc=62733299.076f8554cd1d7040e383838ce97f127b.1623767415014.1623767415014.1623767415014.1&__hssc=62733299.1.1623767415015&__hsfp=3047044971&hsCtaTracking=922e4ee3-00c3-4a88-893a-22d1de021f2d%7Cb5acd728-acc2-4c50-a6f4-07501f8ff12c&ref=levels.fyi
+555,https://logo.clearbit.com/Canva.com,Canva,Sydney,Summer,2023,4420,,https://www.canva.com/careers/jobs/?ref=levels.fyi
+556,https://logo.clearbit.com/https:/www.deere.com,John Deere,Moline,Summer,2023,4418,"Corporate  housing, fully covered  transportation, 401k, health insurance ",https://jobs.deere.com/search/?createNewAlert=false&q=intern&optionsFacetsDD_country=&optionsFacetsDD_department=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield3=&ref=levels.fyi
+557,https://logo.clearbit.com/Scotiabank.com,Scotiabank,Toronto,Summer,2023,4415,,https://www.scotiabank.com/careers/en/careers/careers-students-and-new-grads.html?ref=levels.fyi
+558,https://logo.clearbit.com/TheAerospaceCorporation.com,The Aerospace Corporation,El Segundo,Summer,2023,4411,,https://aero.wd5.myworkdayjobs.com/URR?ref=levels.fyi
+559,https://logo.clearbit.com/https:/www.nutrien.com/,Nutrien,Calgary,Summer,2023,4399,,https://careers-nutrien.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+560,https://logo.clearbit.com/https:/www.agi.com/,Analytical Graphics,Exton,Summer,2023,4333,"No housing, no transportation; meals, snacks, gym, laundry",https://www.agi.com/careers?ref=levels.fyi
+561,https://logo.clearbit.com/Anthem.com,Anthem,Remote,Summer,2023,4333,HP Monitor,https://anthemcareers.ttcportals.com/search/jobs?q=intern+software&location=&ref=levels.fyi
+562,https://logo.clearbit.com/Benefitfocus.com,Benefitfocus,Remote,Summer,2023,4333,Paid holidays,https://www.benefitfocus.com/careers?ref=levels.fyi
+563,http://logo.clearbit.com/blackberry.com/,BlackBerry,Irvine,Summer,2023,4333,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+564,https://logo.clearbit.com/http://www.blackhawknetwork.com/,Blackhawk Network,Pleasanton,Fall,2023,4333,,https://careers-blackhawknetwork.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+565,https://logo.clearbit.com/BlueYonder.com,Blue Yonder,Dallas,Summer,2023,4333,"$8,460 housing, Company Provided transportation",https://jda.wd5.myworkdayjobs.com/university/?ref=levels.fyi
+566,https://logo.clearbit.com/https:/www.caci.com/,CACI International,Stafford,Summer,2023,4333,"Up to $2,000 upon proof of lease",https://careers.caci.com/ListJobs?keyword=intern&Page=1&SortOrder=desc&SortField=AddedOn&ref=levels.fyi
+567,https://logo.clearbit.com/Canoo.com,Canoo,Los Angeles,Summer,2023,4333,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+568,https://logo.clearbit.com/http://www.cccis.com/,CCC Information Service,Chicago,Summer,2023,4333,,https://cccis.recsolu.com/job_boards/tzRKUbgELPz4f2M3En3c1w?ref=levels.fyi
+569,https://logo.clearbit.com/https:/www.centene.com/,Centene Corporation,St. Louis,Summer,2022,4333,Housing: No,https://jobs.centene.com/us/en/search-results?keywords=intern&ref=levels.fyi
+570,https://logo.clearbit.com/CertiK.com,CertiK,New York City,Fall,2023,4333,Remote - Global,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+571,https://logo.clearbit.com/CGIInc..com,CGI,Fairfax,Summer,2023,4333,,https://cgi.njoyn.com/CGI/xweb/XWeb.asp?NTKN=c&clid=21001&Page=joblisting&ref=levels.fyi
+572,https://logo.clearbit.com/Chartbeat.com,Chartbeat,Remote,Summer,2023,4333,"$30 monthly book stipend, free Kindle",https://jobs.lever.co/chartbeat?ref=levels.fyi
+573,https://logo.clearbit.com/https:/www.chathamfinancial.com/,Chatham Financial,Philadelphia,Summer,2023,4333,,https://www.chathamfinancial.com/careers/jobs?ref=levels.fyi
+574,https://imgur.com/Sy4akRL,Childplus Software,Atlanta,Summer,2023,4333,,https://childplus.com/contactus/?ref=levels.fyi
+575,https://logo.clearbit.com/Credera.com,Credera,Denver,Summer,2023,4333,"$1,000 sign-on bonus",https://www.credera.com/careers/students/?ref=levels.fyi
+576,https://logo.clearbit.com/dickssportinggoods.com/,DICK's Sporting Goods,Pittsburgh,Summer,2022,4333,"Corporate housing, Company provided transportation",https://www.dickssportinggoods.jobs/jobs/13316339/2022-corporate-internships-training-programs-pre-application-coraopolis-pa/?src=11663&ref=levels.fyi
+577,https://logo.clearbit.com/Disney.com,Disney,Orlando,Winter,2022,4333,"Company Provided transportation, Free park admission, 40% off food and merch",https://jobs.disneycareers.com/search-jobs?ref=levels.fyi
+578,https://logo.clearbit.com/Eaton.com,Eaton,Cleveland,Fall,2023,4333,"Remote housing, Remote transportation",https://jobs.ebayinc.com/search-jobs?ac=38598&ref=levels.fyi
+579,https://logo.clearbit.com/http://www.esteelauder.com/,Estée Lauder,Long Island City,Summer,2022,4333,"Corporate housing, $2,000 stipend",https://www.elcompanies.com/en/careers/students/internships?ref=levels.fyi#global-information-services
+580,https://logo.clearbit.com/Huawei.com,Huawei,Zurich,Summer,2023,4333,,https://apply.workable.com/huawei-16/?lng=en&ref=levels.fyi
+581,https://logo.clearbit.com/Humana.com,Humana,Louisville,Summer,2023,4333,,https://careers.humana.com/job-search-results/?keyword=intern&ref=levels.fyi
+582,https://i.imgur.com/i42y2WR.png,ID.me,Remote,Summer,2023,4333,"No housing, no transportation",https://boards.greenhouse.io/idme?ref=levels.fyi
+583,https://logo.clearbit.com/https:/www.influxdata.com/,InfluxData,Remote,Summer,2023,4333,,https://www.influxdata.com/careers/?ref=levels.fyi
+584,https://logo.clearbit.com/itron.com,Itron,Raleigh,Fall,2023,4333,,https://www.internships.com/engineering?ref=levels.fyi
+585,https://i.imgur.com/NVEoGwG.png,Koch,Wichita,Summer,2022,4333,"$1,800 housing",https://jobs.kochcareers.com/search/jobs?cfm10=&location=&ns_cfm4=&ns_currentlocale=en&q=intern&ref=levels.fyi
+586,https://logo.clearbit.com/Kohls.com,Kohl's,Milwaukee,Summer,2022,4333,"Corporate housing, 15% off at Kohl's",https://careers.kohls.com/internships/technology-digital?ref=levels.fyi
+587,https://logo.clearbit.com/Leidos.com,Leidos,Remote,Summer,2022,4333,                     AI/ML                    ,https://careers.leidos.com/search/intern/jobs?ref=levels.fyi
+588,https://logo.clearbit.com/ManhattanAssociates.com,Manhattan Associates,Atlanta,Fall,2023,4333,"No housing, no transportation",https://manh.wd5.myworkdayjobs.com/External/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+589,https://logo.clearbit.com/https:/www.mcdonalds.com,McDonald's,San Francisco,Summer,2023,4333,,https://careers.mcdonalds.com/global-corporate/jobs?keywords=intern&ref=levels.fyi
+590,https://logo.clearbit.com/MicroStrategy.com,MicroStrategy,Tysons,Summer,2023,4333,"$5,000 lumpsum signing bonus",https://www.microstrategy.com/en/careers?ref=levels.fyi
+591,https://logo.clearbit.com/Morningstar.com,Morningstar,Chicago,Summer,2023,4333,Free lunch,https://morningstar.wd5.myworkdayjobs.com/Americas/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+592,https://logo.clearbit.com/https:/www.myst.ai/,Myst AI,San Francisco,Summer,2023,4333,,https://jobs.lever.co/myst.ai/?ref=levels.fyi
+593,https://i.imgur.com/Du7j9kd.png,National Instruments,Austin,Summer,2023,4333,,https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions?keyword=intern&location=Austin%2C+TX%2C+United+States&locationId=300000000632431&locationLevel=city&radius=0&radiusUnit=MI&ref=levels.fyi
+595,https://logo.clearbit.com/NewYorkLifeInsurance.com,New York Life Insurance,New York City,Summer,2022,4333,"$2,000 lumpsum housing",https://www.newyorklife.com/careers/corporate/internships/technology?ref=levels.fyi
+596,https://logo.clearbit.com/officedepot.com,Office Depot,Dallas,Summer,2023,4333,"$1,000 extra on the first paycheck",https://jobs.officedepot.com/search/jobs?q=intern&location=&ref=levels.fyi
+597,https://logo.clearbit.com/Onsemi.com,Onsemi,Phoenix,Summer,2023,4333,                     Applications Engineer                    ,https://www.onsemi.com/careers?ref=levels.fyi
+598,https://i.imgur.com/GXe8AMj.png,PACCAR,Seattle,Summer,2023,4333,Insurance 401k ,https://jobs.paccar.com/search/?createNewAlert=false&q=intern&locationsearch=&ref=levels.fyi
+599,https://logo.clearbit.com/Pattern.com,Pattern,Lehi,Summer,2022,4333,"$1,000 housing",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+600,https://logo.clearbit.com/Paycom.com,Paycom,Grapevine,Summer,2022,4333,,https://pc00.paycomonline.com/v4/ats/web.php/jobs?clientkey=A38173AIE92874820ALRE20847CDE927PIW76526&_ga=2.94261533.1412288764.1623241074-1392331851.1623241074&ref=levels.fyi
+601,https://logo.clearbit.com/https:/gopci.com/,PCI Strategic Management,Remote in United States,Fall,2023,4333,,https://careers.bigbear.ai/jobs?keywords=intern&sortBy=relevance&page=1&ref=levels.fyi
+602,https://logo.clearbit.com/Pluralsight.com,Pluralsight,Draper,Summer,2023,4333,"No housing, no transportation",https://pluralsight.wd1.myworkdayjobs.com/Careers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+603,https://logo.clearbit.com/PNC.com,PNC,Pittsburgh,Summer,2022,4333,"$2,500 in total for 10 weeks housing",https://careers.pnc.com/global/en/search-results?ref=levels.fyi
+604,https://logo.clearbit.com/PrattMiller.com,Pratt Miller,New Hudson,Summer,2023,4333,,https://www.prattmiller.com/careers?ref=levels.fyi
+605,https://logo.clearbit.com/RaptorMaps.com,Raptor Maps,Remote,Summer,2023,4333,,https://raptormaps.com/jobs/?ref=levels.fyi
+606,https://logo.clearbit.com/realtor.com,realtor.com,Vancouver,Spring,2022,4333,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+607,https://logo.clearbit.com/Slalom.com,Slalom,Atlanta,Summer,2022,4333,,https://jobs.slalom.com/?ref=levels.fyi#/
+608,https://logo.clearbit.com/SlalomBuild.com,Slalom Build,Seattle,Summer,2023,4333,                     QA                    ,https://slalom.secure.force.com/buildcareers/ts2__JobSearch?ref=levels.fyi
+609,https://logo.clearbit.com/SASInstitute.com,SAS,Cary,Fall,2023,4333,,https://globalcareers-sas.icims.com/jobs/search?ss=1&searchKeyword=intern&searchRelation=keyword_all&ref=levels.fyi
+610,https://logo.clearbit.com/SecurianFinancial.com,Securian Financial,St. Paul,Summer,2023,4333,,https://hq.wd5.myworkdayjobs.com/Securian_External/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+611,https://logo.clearbit.com/ShopRunner.com,ShopRunner,Remote,Summer,2023,4333,Work laptop,https://www.shoprunner.com/careers?ref=levels.fyi
+612,https://logo.clearbit.com/Siemens.com,Siemens,Huntsville,Summer,2023,4333,"N/A housing, paid volunteer hours, pay based on graduation date",https://jobs.siemens.com/jobs?keywords=intern+&sortBy=relevance&page=1&ref=levels.fyi
+613,https://logo.clearbit.com/https:/www.sdl.usu.edu/,Space Dynamics Lab,Logan,Summer,2023,4333,"$1,200 housing stipend for Summer, $650 travel stipend for Summer.",https://jobs.sdl.usu.edu/usurf-jobs/employment/positions?type=Intern&ref=levels.fyi
+614,https://logo.clearbit.com/SPSCommerce.com,SPS Commerce,Minneapolis,Summer,2023,4333,,https://careers-spscommerce.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+615,https://logo.clearbit.com/SynchronyFinancial.com,Synchrony Financial,Champaign,Summer,2022,4333,Food and corporate gifts,https://www.synchronycareers.com/job-search-results/?keyword=intern&ref=levels.fyi
+616,https://logo.clearbit.com/TravelersInsurance.com,Travelers Insurance,Hunt Valley,Summer,2023,4333,,https://careers.travelers.com/job-search-results/?keyword=intern&ref=levels.fyi
+617,https://logo.clearbit.com/Truveta.com,Truveta,Seattle,Summer,2023,4333,,https://www.truveta.com/careers/?ref=levels.fyi
+618,https://logo.clearbit.com/https:/www.turnitin.com/,Turnitin,Oakland,Summer,2023,4333,,https://www.turnitin.com/about/careers?ref=levels.fyi
+619,https://logo.clearbit.com/UBS.com,UBS,Atlanta,Summer,2023,4333,,https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=6166&ref=levels.fyi#keyWordSearch=&locationSearch=
+620,https://logo.clearbit.com/Umba.com,Umba,San Francisco,Summer,2023,4333,,https://www.umba.com/careers?ref=levels.fyi
+621,https://logo.clearbit.com/https:/www.usbank.com/,US Bank,Charlotte,Summer,2023,4333,,https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+622,https://logo.clearbit.com/USAA.com,USAA,San Antanio,Summer,2023,4333,"$2,020 lumpsum housing, no transportation, Welcome kit included",https://www.usaajobs.com/search-jobs/intern/1207/1?fl=6252001&glat=59.93111&glon=30.36072&ref=levels.fyi
+623,https://logo.clearbit.com/VIZIO.com,VIZIO,Denver,Summer,2023,4333,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+624,https://i.imgur.com/zNirXbc.jpeg,Zynga,Toronto,Summer,2023,4333,"No housing, no transportation, free food ",https://jobs.jobvite.com/zynga//?ref=levels.fyi
+625,https://logo.clearbit.com/medtronic.com,Medtronic,Minneapolis,Summer,2022,4290,"$6,000 housing. ",https://jobs.medtronic.com/jobs/search/106431002?ref=levels.fyi
+626,https://logo.clearbit.com/spectrum.com,Spectrum,Cerritos,Summer,2023,4281,Network Engineering Intern,https://jobs.spectrum.com/search-jobs/intern/4673-14710/1?glat=32.882&glon=-96.7609&ref=levels.fyi
+627,https://logo.clearbit.com/Indeed.com,Indeed,Singapore,Summer,2022,4242,,https://www.indeed.jobs/available-jobs/?sr=intern+&lc=&location=&department=Software+Engineering&remote=&paged=&ref=levels.fyi
+628,https://logo.clearbit.com/TexasInstruments.com,Texas Instruments,Dallas,Summer,2023,4240,"$1,500 housing, No transportation, Discount stock",https://careers.ti.com/search-jobs/?keyword=Software+Engineer&fuzzy=false&brand=Interns&ref=levels.fyi
+629,https://logo.clearbit.com/BoozAllenHamilton.com,Booz Allen Hamilton,Remote,Summer,2023,4160,,https://careers.boozallen.com/jobs/search/intern?ref=levels.fyi
+630,https://logo.clearbit.com/https:/chamberlaingroup.com/,Chamberlain Group,Chicago,Summer,2023,4160,$800 Bonus at Successful Completion of Internship,https://chamberlaingroup.com/careers/?ref=levels.fyi
+631,https://logo.clearbit.com/Cummins.com,Cummins,Indianapolis,Fall,2023,4160,"No housing, no transportation",https://cummins.jobs/jobs/?q=intern&ref=levels.fyi#4
+632,https://logo.clearbit.com/https:/www.fedex.com,Fedex,Coraopolis,Summer,2022,4160,,https://careers.fedex.com/fedex/jobs?keywords=intern&page=1&ref=levels.fyi
+633,https://logo.clearbit.com/Fullscript.com,Fullscript,Ottawa ON,Winter,2023,4160,"No housing, no transportation",https://fullscript.com/careers?ref=levels.fyi#jobs
+634,https://i.imgur.com/jRE4nhL.png,Hudl,Lincoln,Summer,2022,4160,,https://www.hudl.com/jobs/interns?ref=levels.fyi#openings
+635,https://logo.clearbit.com/KLA.com,KLA,Ann Arbor,Summer,2022,4160,"$7,000 housing, Paid flight",https://kla.wd1.myworkdayjobs.com/Search/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+636,https://logo.clearbit.com/LincolnFinancialGroup.com,Lincoln Financial Group,Greensboro,Summer,2022,4160,,https://jobs.lincolnfinancial.com/go/Internship-Jobs/2254900/?ref=levels.fyi
+637,https://i.imgur.com/nwWg68V.png,Lowe's,Charlotte,Summer,2022,4160,Housing: Yes ,https://corporate.lowes.com/careers?ref=levels.fyi
+638,https://logo.clearbit.com/http:/www.mitre.org/,MITRE,Bedford,Summer,2023,4160,,https://mitre.wd5.myworkdayjobs.com/MITRE/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+639,https://logo.clearbit.com/Noblis.com,Noblis,Reston,Summer,2023,4160,,https://careers.noblis.org/featured/internships/?ref=levels.fyi
+640,https://logo.clearbit.com/Philips.com,Philips Respironics,Pittsburgh,Summer,2023,4160,Free Parking,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+641,https://logo.clearbit.com/SureScripts.com,SureScripts,Minneapolis,Summer,2023,4160,,https://surescripts.com/our-story/careers?ref=levels.fyi
+642,https://logo.clearbit.com/toyota.com/,Toyota,Plano,Summer,2022,4160,,https://www.toyotaconnected.com/job?gh_jid=4421992002&did=4040990002&ref=levels.fyi
+643,https://logo.clearbit.com/UltimateKronosGroup.com,Ultimate Kronos Group,Weston,Fall,2023,4160,,https://www.ukg.com/search/node?keys=intern&ref=levels.fyi
+644,https://logo.clearbit.com/gatech.edu,GTRI,Atlanta,Summer,2023,4153,,https://careers.gtri.gatech.edu/en-us/search/?search-keyword=Fall&work-type=students%3A+intern&ref=levels.fyi
+645,https://logo.clearbit.com/Ceridian.com,Ceridian,Toronto,Fall,2023,4136,Corporate housing,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+646,https://logo.clearbit.com/ApplyBoard.com,ApplyBoard,Remote,Winter,2023,4021,"No housing, no transportation",https://www.applyboard.com/careers?ref=levels.fyi
+647,https://logo.clearbit.com/Ecobee.com,Ecobee,Toronto,Summer,2023,4021,"No housing, no transportation",https://www.ecobee.com/en-us/careers/job-board/?ref=levels.fyi
+648,https://logo.clearbit.com/Bayer.com,Bayer,St. Louis,Summer,2022,4007,"$4,100 Taxable one time Stipend",https://career.bayer.com/en/jobs-search?field_job_career_level=2131&field_job_functional_area=All&field_job_country=All&field_job_location=All&field_job_division=All&search_api_fulltext=&ref=levels.fyi
+649,https://logo.clearbit.com/https:/www.mealme.ai/,MealMe,San Francisco,Summer,2022,4001,"Relocation and free housing, performance based stock bonus, free meals",https://www.mealme.ai/careers?ref=levels.fyi
+650,https://logo.clearbit.com/AllyFinancial.com,Ally Financial,Lewisville,Summer,2022,3987,"$1,000 housing",https://recruiting.adp.com/srccar/public/RTI.home?d=AllyCareers&c=1125608&ref=levels.fyi
+651,https://logo.clearbit.com/CardinalHealth.com,Cardinal Health,Dublin,Summer,2022,3987,$20 / day for corporate housing.,https://jobs.cardinalhealth.com/search/searchjobs?categoryid=1fe13bb0-aa61-47d4-827d-d835358512d7&ref=levels.fyi
+652,https://logo.clearbit.com/CNA.com,CNA Insurance,Chicago,Summer,2022,3987,,https://cna.taleo.net/careersection/2/jobsearch.ftl?ref=levels.fyi
+653,https://logo.clearbit.com/gallo.com,E & J Gallo Winery,Modesto,Summer,2023,3987,"$3,000 signing bonus",https://careers.gallo.com/search/?q=2021&q2=&alertId=&locationsearch=&title=intern&location=&ref=levels.fyi
+654,https://logo.clearbit.com/FarmersInsurance.com,Farmers Insurance,Woodland Hills,Summer,2023,3987,,https://jobs.farmersinsurance.com/search/?searchby=location&createNewAlert=false&q=intern&locationsearch=&geolocation=&optionsFacetsDD_shifttype=&optionsFacetsDD_department=&ref=levels.fyi
+655,https://i.imgur.com/oRsrPNs.png,Fiat Chrysler Automobiles,Auburn Hills,Summer,2023,3987,IT Department at FCA,https://careers.fcagroup.com/job-search-results/?keyword=intern&ref=levels.fyi
+656,https://logo.clearbit.com/https://guardanthealth.com/,Guardant Health,Redwood City,Summer,2023,3987,,https://guardanthealth.com/careers/jobs/?ref=levels.fyi
+657,https://logo.clearbit.com/Hashicorp.com,Hashicorp,Waterloo,Summer,2022,3987,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+658,https://logo.clearbit.com/KodakAlaris.com,Kodak Alaris,Rochester,Summer,2023,3987,,https://recruiting.adp.com/srccar/public/RTI.home?c=1215501&d=External&ref=levels.fyi
+659,https://logo.clearbit.com/MassMutual.com,MassMutual,Remote,Summer,2023,3987,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+660,https://logo.clearbit.com/MutualofOmaha.com,Mutual of Omaha,Remote,Summer,2022,3987,"WFH stipend, swag",https://www.mutualofomaha.com/careers/jobs/search?keywords=intern&ref=levels.fyi
+662,https://logo.clearbit.com/PetSmart.com,PetSmart,Phoenix,Summer,2023,3987,"$1,000 housing",https://careers.petsmart.com/jobs?keywords=intern&sortBy=relevance&page=1&ref=levels.fyi
+663,https://i.imgur.com/ckhgcDr.png,Shield AI,San Diego,Summer,2023,3987,"$1,000 housing",https://jobs.lever.co/shieldai?ref=levels.fyi
+664,https://logo.clearbit.com/TheCo-operators.com,The Co-operators,Toronto,Fall,2023,3987,,https://www.cooperators.ca/en/About-Us/careers/students-and-new-grads.aspx?ref=levels.fyi
+665,https://logo.clearbit.com/Thrivent.com,Thrivent,Appleton,Summer,2023,3987,,https://thrivent.wd5.myworkdayjobs.com/external/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+666,https://logo.clearbit.com/https:/www.tylertech.com/,Tyler Technologies,Plano,Summer,2023,3987,,https://jobs.jobvite.com/tylertech/jobs?ref=levels.fyi
+667,https://logo.clearbit.com/VoyaFinancial.com,Voya Financial,Braintree,Summer,2023,3987,,https://godirect.wd5.myworkdayjobs.com/voya_jobs/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+668,https://logo.clearbit.com/McKesson.com,McKesson,Atlanta,Summer,2023,3969,,https://mckesson.wd3.myworkdayjobs.com/External_Careers?q=intern&ref=levels.fyi
+669,https://logo.clearbit.com/mtb.com,M&T Bank,Buffalo,Summer,2022,3900,1.5x salary for overtime,https://www3.mtb.com/careers/internships-co-ops-training-program?ref=levels.fyi
+670,https://logo.clearbit.com/AlaskaAirlines.com,Alaska Airlines,Seattle,Summer,2023,3813,Unlimited standby flights + 7 Guest flight passes,https://alaskaair.jobs/career-opportunities/interns/?ref=levels.fyi
+671,https://logo.clearbit.com/Ansys.com,Ansys,Remote,Spring,2022,3813,,https://careers.ansys.com/go/Software-Development/8092700/?ref=levels.fyi
+672,https://logo.clearbit.com/BMO.com,BMO,Toronto,Winter,2023,3813,,https://jobs.bmo.com/ca/en/interns?ref=levels.fyi
+673,https://logo.clearbit.com/BostonScientific.com,Boston Scientific,Arden Hills,Summer,2023,3813,"Corporate Housing, Company Provided Shuttles",https://jobs.bostonscientific.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_department=&optionsFacetsDD_facility=&ref=levels.fyi
+674,https://logo.clearbit.com/BottomlineTechnologies.com,Bottomline Technologies,Portsmouth,Summer,2023,3813,,https://boards.greenhouse.io/bottomlinetechnologies?ref=levels.fyi
+675,https://logo.clearbit.com/cargill.com,Cargill,Champaign,Summer,2022,3813,,https://careers.cargill.com/search-jobs/intern%20software/23251/1?ref=levels.fyi
+676,https://logo.clearbit.com/CognitoForms.com,Cognito Forms,Columbia,Summer,2022,3813,,https://www.cognitoforms.com/company/careers?ref=levels.fyi
+677,https://logo.clearbit.com/GMFinancial.com,GM Financial,Arlington,Spring,2022,3813,Housing: No,https://globalcareers-gmfinancial.icims.com/jobs/search?ss=1&searchKeyword=intern&ref=levels.fyi
+678,https://logo.clearbit.com/Honeywell.com,Honeywell,Atlanta,Summer,2022,3813,,https://careers.honeywell.com/us/en/search-results?keywords=intern&ref=levels.fyi
+679,https://logo.clearbit.com/KBR.com,KBR,Chantilly,Summer,2023,3813,,https://kbr.wd5.myworkdayjobs.com/KBR_Careers/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+680,https://logo.clearbit.com/Kinaxis.com,Kinaxis,Ottawa,Fall,2023,3813,,https://www.kinaxis.com/en/internships?ref=levels.fyi
+681,https://logo.clearbit.com/https:/www.logicgate.com/,LogicGate,Chicago,Summer,2023,3813,,https://www.logicgate.com/about-us/join-the-team/?ref=levels.fyi#positions
+682,https://logo.clearbit.com/M1Finance.com,M1 Finance,Remote,Summer,2023,3813,,https://boards.greenhouse.io/m1finance?ref=levels.fyi
+683,https://i.imgur.com/PlnWBgr.png,Maxar Technologies,Ypsilanti,Summer,2023,3813,Free catered lunch sometimes,https://maxar.wd1.myworkdayjobs.com/MAXAR?utm_source=maxar.com-early-careers&utm_medium=website&q=intern&ref=levels.fyi
+684,https://logo.clearbit.com/NorthropGrumman.com,Northrop Grumman,Franklin,Summer,2022,3813,"Corporate housing, Company Provided transportation, Free Lunch and Gym",https://www.northropgrumman.com/jobs/?search=intern&ref=levels.fyi
+685,https://logo.clearbit.com/NorthwesternMutual.com,Northwestern Mutual,Milwaukee,Summer,2022,3813,"Corporate housing, Company Provided transportation, Free Lunch, Gym.",https://careers.northwesternmutual.com/corporate-careers/?search=intern&pagesize=20&ref=levels.fyi#content
+686,https://logo.clearbit.com/Roche.com,Roche,Santa Clara,Summer,2023,3813,"$25/hour for 6 month co-op, 3rd year pay",https://www.roche.com/careers/jobs/jobsearch.htm?keywords=intern&countryCodes=US&ref=levels.fyi
+687,https://logo.clearbit.com/societegenerale.com/,Societe Generale,Montreal,Summer,2023,3813,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+688,https://logo.clearbit.com/Allscripts.com,Allscripts,Raleigh,Summer,2023,3718,,https://careers.allscripts.com/jobs/?ref=levels.fyi
+689,https://logo.clearbit.com/BannerEngineering.com,Banner Engineering,Plymouth,Summer,2023,3640,,https://recruiting.ultipro.com/ban1010/JobBoard/e9066a66-c3b9-e25c-d036-116705c05e46/?q=intern&o=relevance&w=&wc=&we=&wpst=&ref=levels.fyi
+690,https://logo.clearbit.com/Cerner.com,Cerner,Kansas City,Summer,2023,3640,"Provided housing, no transportation",https://careers.cerner.com/Search?career_path=students++graduates&ref=levels.fyi
+691,https://logo.clearbit.com/CIBC.com,CIBC,Toronto,Fall,2023,3640,,https://cibc.wd3.myworkdayjobs.com/search/9/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+692,https://logo.clearbit.com/Colgate-Palmolive.com,Colgate-Palmolive,Parsippany,Spring,2022,3640,,https://jobs.colgate.com/go/Student-Opportunities/8517500/?q=&q2=&alertId=&locationsearch=&title=intern&location=&department=&facility=&ref=levels.fyi
+693,https://logo.clearbit.com/Dynetics.com,Dynetics,Huntsville,Summer,2022,3640,"$450 housing, Travel to Huntsville reimbursement",https://careers.dynetics.com/job-listing.php?s=intern&ref=levels.fyi
+694,https://logo.clearbit.com/Johnson&Jonshon.com,Johnson & Jonshon,Remote,Spring,2023,3640,,https://jobs.jnj.com/jobs?page=1&limit=25&keywords=intern&sortBy=relevance&ref=levels.fyi
+695,https://logo.clearbit.com/NeocisInc.com,Neocis,Miami,Summer,2023,3640,,https://www.neocis.com/careers/?ref=levels.fyi#positions
+697,https://logo.clearbit.com/Smartsheet.com,Smartsheet,Edinburgh,Fall,2023,3640,Laptop and swag,https://www.smartsheet.com/careers-list/Engineering%20-%20Internships%20%28Summer%202021%29?ref=levels.fyi
+698,https://logo.clearbit.com/StateStreet.com,State Street,Remote,Summer,2023,3640,,https://careers.statestreet.com/global/en/search-results?keywords=intern&s=1&ref=levels.fyi
+699,https://logo.clearbit.com/TrustmarkBenefits.com,Trustmark Benefits,Lake Forest,Summer,2023,3640,,https://www.trustmarkbenefits.com/careers?ref=levels.fyi
+700,https://logo.clearbit.com/NextEraEnergy.com,NextEra Energy,Juno Beach,Summer,2023,3553,,https://jobs.nexteraenergy.com/search/?q=intern&q2=&alertId=&locationsearch=&geolocation=&searchby=location&d=10&lat=&lon=&title=intern+software&location=&date=&ref=levels.fyi
+701,https://logo.clearbit.com/acs.org,ACS,Columbus,Summer,2023,3467,,https://jobs.acs.org/search/?q=intern&ref=levels.fyi
+702,https://logo.clearbit.com/AlionScienceandTechnology.com,Alion Science and Technology,Syracuse,Summer,2023,3467,"No housing, no transportation, flexible work hours",https://jobs.alionscience.com/en-US/search?ref=levels.fyi
+703,https://logo.clearbit.com/Amadeus.com,Amadeus,Sophia Antipolis,Summer,2023,3467,Profit sharing,https://opportunities.jobs.amadeus.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_country=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=Students+%28Internships%2C+Work+Experience%2C+Grads%29&ref=levels.fyi
+704,https://logo.clearbit.com/https:/www.arrow.com/,Arrow Electronics,Denver,Summer,2023,3467,"No housing, no transportation",https://careers.arrow.com/us/en/search-results?s=1&ref=levels.fyi
+705,http://logo.clearbit.com/axiomzen.co/,Axiom Zen,Remote,Winter,2023,3467,"Insurance (health, dental, vision, life, etc), phone reimbursement, gym and fitness reimbursement, free WFH stuff",https://www.axiomzen.co/careers?ref=levels.fyi
+706,https://logo.clearbit.com/Bluehost.com,Bluehost,Provo,Spring,2023,3467,"No housing, no transportation",https://careers.endurance.com/global/en/search-results?keywords=intern&ref=levels.fyi
+707,https://logo.clearbit.com/https://www.cas.org/,CAS,Columbus,Summer,2022,3467,,https://jobs.acs.org/search/?createNewAlert=false&q=intern&locationsearch=&ref=levels.fyi
+708,https://logo.clearbit.com/https://www.connectbyamfam.com/,Connect,De Pere,Summer,2023,3467,,https://www.internships.com/posting/sam_4046957673?ref=levels.fyi
+709,https://i.imgur.com/nsnp4BT.png,Contentstack,San Francisco,Summer,2023,3467,,https://www.contentstack.com/company/careers/?ref=levels.fyi
+710,https://logo.clearbit.com/Copart.com,Copart,Dallas,Summer,2023,3467,Cyber Security,https://recruiting.adp.com/srccar/public/RTI.home?c=1214601&d=ExternalCareerSite&ref=levels.fyi
+711,https://i.imgur.com/XM9PQIr.png,Demia,Remote,Summer,2023,3467,,https://www.joindemia.com/careers?ref=levels.fyi
+712,https://logo.clearbit.com/EnergyOgre.com,Energy Ogre,Houston,Summer,2023,3467,"No housing, no transportation",https://www.energyogre.com/careers?ref=levels.fyi
+713,https://logo.clearbit.com/Equifax.com,Equifax,Atlanta,Summer,2023,3467,,https://careers.equifax.com/global/en/search-results?keywords=intern&ref=levels.fyi
+714,https://logo.clearbit.com/EquipmentShare.com,EquipmentShare,Columbia,Summer,2022,3467,"Option to work remote or in Columbia. $1,000 / mo if working in Columbia. Nothing if you work remote.",https://www.linkedin.com/jobs/view/2706565512/?ref=levels.fyi
+715,https://logo.clearbit.com/GiantOak.com,Giant Oak,Remote,Winter,2022,3467,,https://www.giantoak.com/careers?ref=levels.fyi
+716,https://logo.clearbit.com/Itential.com,Itential,Atlanta,Spring,2022,3467,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+717,https://logo.clearbit.com/LendingTree.com,LendingTree,Charlotte,Summer,2023,3467,"No housing, no transportation, preference to hire someone located in Charlotte, NC",https://www.lendingtree.com/careers/jobs/?offices=5435&departments=10159&id=&ref=levels.fyi
+718,https://logo.clearbit.com/LexisNexisRisk.com,LexisNexis Risk,Atlanta,Summer,2023,3467,,https://relx.wd3.myworkdayjobs.com/RiskSolutions/2/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+719,https://logo.clearbit.com/MotionPoint.com,MotionPoint,Coconut Creek,Spring,2023,3467,,"https://www.motionpoint.com/company/careers/?ref=levels.fyi#:~:text=Software%20Engineering%20Intern%20%2D%20Spring%202021,offices%20in%20Coconut%20Creek%2C%20Florida."
+720,https://logo.clearbit.com/https:/www.nb.com/,Neuberger Berman,New York City,Summer,2023,3467,,https://nb.wd1.myworkdayjobs.com/nbcareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+721,https://i.imgur.com/0wks6kN.png,ORTEC,Atlanta,Summer,2022,3467,,https://careers.ortec.com/job-region/atlanta/?ref=levels.fyi
+722,https://logo.clearbit.com/PruTech.com,PruTech,New York City,Fall,2023,3467,,https://www.prutech.com/people/careers.php?ref=levels.fyi
+723,https://logo.clearbit.com/https:/redhorsecorp.com/,Redhorse Corporation,Remote,Summer,2023,3467,,https://redhorsecorp.com/current-openings/?ref=levels.fyi
+724,https://logo.clearbit.com/Seagate.com,Seagate,Remote,Summer,2022,3467,Swag,https://seagatecareers.com/search/?createNewAlert=false&q=intern&optionsFacetsDD_country=&optionsFacetsDD_dept=&optionsFacetsDD_customfield1=&locationsearch=&ref=levels.fyi
+725,https://logo.clearbit.com/SockClub.com,Sock Club,Austin,Summer,2023,3467,"$2,100 housing",https://www.sockclub.com/careers?ref=levels.fyi
+726,https://logo.clearbit.com/SOTI.com,SOTI,Mississauga,Summer,2023,3467,,https://soti.net/misc/internship-opportunities-at-soti/?ref=levels.fyi
+727,https://logo.clearbit.com/Syngenta.com,Syngenta,Greensboro,Summer,2023,3467,Did not negotiate. Received $750 one time sign-on bonus ,https://www.syngenta.com/en/careers?ref=levels.fyi
+728,https://logo.clearbit.com/TheHomeDepot.com,The Home Depot,Austin,Summer,2022,3467,,https://careers.homedepot.com/job-search-results/?keyword=Software+Engineer+Intern&ref=levels.fyi
+729,https://logo.clearbit.com/TomTom.com,TomTom,Lebanon,Spring,2023,3467,,https://www.tomtom.com/careers/joboverview/?title=intern&ref=levels.fyi
+730,https://logo.clearbit.com/transcore.com,Transcore,Houston,Summer,2023,3467,"No housing, no transportation",https://recruiting.ultipro.com/ROP1001ROPER/JobBoard/0828d9d0-a522-4794-851e-c2418a1194b1/?q=&o=postedDateDesc&ref=levels.fyi
+731,https://logo.clearbit.com/Verint.com,Verint,Alpharetta,Summer,2023,3467,"No housing, no transportation, $25 weekly ubereats gift card",https://phf.tbe.taleo.net/phf03/ats/careers/v2/searchResults?org=VERINT&cws=75&ref=levels.fyi
+732,https://logo.clearbit.com/Visier.com,Visier,Vancouver,Spring,2022,3467,,https://jobs.visier.com/jobs?page=1&keywords=intern&sortBy=relevance&ref=levels.fyi
+733,https://logo.clearbit.com/WesternUnion.com,Western Union,Denver,Summer,2023,3467,,https://careers.westernunion.com/job-search-results/?keyword=intern&ref=levels.fyi
+734,https://logo.clearbit.com/https://www.wwt.com/,World Wide Technology,Remote,Summer,2023,3467,,https://wwt.dejobs.org/jobs/?q=intern&ref=levels.fyi
+735,https://logo.clearbit.com/OpenText.com,OpenText,Waterloo,Fall,2023,3442,,https://careers.opentext.com/search/?q=intern&q2=&alertId=&locationsearch=&title=intern&location=&department=&ref=levels.fyi
+736,https://logo.clearbit.com/Benevity.com,Benevity,Calgary,Summer,2023,3397,"No housing, no transportation, counselling",https://benevity.bamboohr.com/jobs/?ref=levels.fyi
+737,https://i.imgur.com/XUPae8y.png,BMW Manufacturing Co.,Greenville,Summer,2023,3397,,https://www.bmwgroup.jobs/us/en/opportunities/student/undergraduate-student.html?ref=levels.fyi
+738,https://logo.clearbit.com/http:/www.intactfc.com/,Intact Financial Corporation,Montreal,Summer,2023,3380,,https://careers.intactfc.com/ca/en/search-results?keywords=intern&ref=levels.fyi
+739,https://logo.clearbit.com/Cigna.com,Cigna,Remote,Summer,2022,3293,,https://careers.ciena.com/us/en/search-results?m=3&keywords=Intern&ref=levels.fyi
+740,https://logo.clearbit.com/https://www.erieinsurance.com/,Erie Insurance,Erie,Summer,2023,3293,,https://jobs.erieinsurance.com/search/?createNewAlert=false&q=intern&locationsearch=&ref=levels.fyi
+741,https://logo.clearbit.com/eversource.com,Eversource,Berlin,Spring,2023,3293,,https://jobs.eversource.com/?ref=levels.fyi
+742,https://i.imgur.com/ABqMvfi.png,"Intelligent Automation, Inc",Rockville MD,Summer,2023,3293,Swag,https://www.i-a-i.com/careers/?ref=levels.fyi
+743,https://logo.clearbit.com/Kiewit.com,Kiewit,Ingleside,Summer,2023,3293,,https://kiewitcareers.kiewit.com/search/?createNewAlert=false&q=intern&locationsearch=&optionsFacetsDD_location=&optionsFacetsDD_shifttype=&optionsFacetsDD_dept=&ref=levels.fyi
+744,https://logo.clearbit.com/Michelin.com,Michelin,Greenville,Summer,2023,3293,"$500 housing, no transportation, Tire purchase discount, Healthcare",https://michelinhr.wd3.myworkdayjobs.com/Michelin/4/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+745,https://logo.clearbit.com/SchneiderElectric.com,Schneider Electric,Victoria,Winter,2022,3260,,https://careers.se.com/global/jobs?keywords=intern&lang=en-US&ref=levels.fyi
+746,https://logo.clearbit.com/Grubbrr.com,Grubbrr,Boca Raton,Fall,2023,3250,,https://careers.grubbrr.com/?search_keywords=&selected_category=-1&selected_jobtype=internship&selected_location=-1&ref=levels.fyi
+747,https://i.imgur.com/fIedTDy.png,Symend,Calgary,Fall,2023,3212,,https://symend.com/careers/?ref=levels.fyi
+748,https://logo.clearbit.com/https:/www.angi.com/,Angie's List,Indianapolis,Summer,2023,3120,Corporate housing,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+749,https://logo.clearbit.com/FederatedHermes.com,Federated Hermes,Pittsburgh,Summer,2023,3120,"Company merch, free food all the time.",https://www.federatedinvestors.com/corporate/careers.do?ref=levels.fyi
+750,https://logo.clearbit.com/https:/www.hcss.com/,HCSS,Houston,Summer,2023,3120,,https://careers.hcss.com/current-openings/?ref=levels.fyi
+751,https://logo.clearbit.com/http:/kcftech.com/,KCF Technologies,Remote,Summer,2023,3120,,https://kcftech.com/the-kcf-way/?ref=levels.fyi
+752,https://logo.clearbit.com/Later.com,Later,Vancouver,Fall,2023,3120,Paid company retreat to Quebec,https://later.com/careers/?ref=levels.fyi#positions
+753,https://logo.clearbit.com/NASA.gov,NASA,Cape Canaveral,Spring,2022,3120,,https://www.nasa.gov/careers/vacancies/?ref=levels.fyi
+754,https://logo.clearbit.com/https:/noke.com/,Nokè,Lehi,Fall,2023,3120,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+755,https://i.imgur.com/FNP91Qe.png,Project Jupyter,San Luis Obispo,Summer,2023,3120,"No housing, no transportation",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+756,https://logo.clearbit.com/Publix.com,Publix,Lakeland,Summer,2023,3120,Corporate housing,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+757,https://logo.clearbit.com/RegionsBank.com,Regions Bank,Birmingham,Summer,2022,3120,,https://careers.regions.com/us/en/search-results?keywords=intern&ref=levels.fyi
+758,https://logo.clearbit.com/TheNationalFootballLeague.com,The National Football League,Culver City,Summer,2023,3120,"$5,000 housing, Merch & Food",https://hdmm.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions?keyword=intern&ref=levels.fyi
+759,https://logo.clearbit.com/Shopee.com,Shopee,Singapore,Summer,2023,3101,"No housing, no transportation",https://careers.shopee.sg/jobs?region_id=&dept_id=109&level=205&limit=20&offset=0&ref=levels.fyi
+760,https://logo.clearbit.com/Creospark.com,Creospark,Remote,Winter,2022,3085,,https://creospark.com/careers/?ref=levels.fyi
+761,https://logo.clearbit.com/https:/tehama.io/,Tehama.io,Ottawa,Summer,2023,3033," $300 WFH Stipend, $60 / mo Wi-Fi Utility Stipend",https://tehama.bamboohr.com/jobs/?ref=levels.fyi
+762,https://logo.clearbit.com/matrox.com,Matrox,Dorval,Summer,2023,2999,,https://www.matrox.com/en/corporate/careers/search-jobs?field_category_tid=All&field_location_tid=All&field_type_tid=3617&items_per_page=50&ref=levels.fyi
+763,https://logo.clearbit.com/GHGSat.com,GHGSat,Montreal,Summer,2023,2987,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+764,https://logo.clearbit.com/SEA.com,SEA,Singapore,Summer,2023,2954,,https://career.sea.com/search?keyword=intern&level=0&location_id=0&team_id=0&ref=levels.fyi
+765,https://logo.clearbit.com/assured.claims/,Assured,Los Angeles,Spring,2023,2947,,https://jobs.lever.co/assured/?commitment=Internship&ref=levels.fyi
+766,https://logo.clearbit.com/Novarad.com,Novarad,Provo,Summer,2023,2947,,https://www.ziprecruiter.com/c/Novarad-Corporation/Jobs?ref=levels.fyi
+767,https://logo.clearbit.com/societegenerale.com/,Societe Generale,Montreal,Fall,2023,2947,,https://careers.societegenerale.com/en/search?refinementList%5BjobType%5D%5B0%5D=Internship&query=intern&ref=levels.fyi
+768,https://logo.clearbit.com/Genetec.com,Genetec,Montreal,Fall,2023,2912,"No housing, no transportation, Bistro",https://apply.workable.com/genetec-inc/?lng=en&ref=levels.fyi
+769,https://logo.clearbit.com/https:/www.sunlife.ca,Sun Life Financial,Montreal,Fall,2023,2876,,https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/1/refreshFacet/318c8bb6f553100021d223d9780d30be?ref=levels.fyi
+770,https://logo.clearbit.com/ADTRAN.com,ADTRAN,Huntsville,Spring,2022,2773,Corporate housing,https://fa-eoya-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/requisitions?keyword=intern&mode=location&ref=levels.fyi
+771,https://logo.clearbit.com/ExactDetailing.com,Exact Detailing,Victoria,Winter,2023,2773,,https://exactdetailing.com/steeldetailing/careers/?ref=levels.fyi
+772,https://logo.clearbit.com/TheCincinnatiInsuranceCompanies.com,The Cincinnati Insurance Companies,Cincinnati,Summer,2023,2773,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+773,https://logo.clearbit.com/Polar.com,Polar,Toronto,Fall,2023,2725,,https://www.polar.com/en/about_polar/jobs?ref=levels.fyi
+774,https://logo.clearbit.com/ChangeHealthcare.com,Change Healthcare,Richmond,Summer,2023,2664,,https://careers.changehealthcare.com/search-jobs/intern/32443/1?fl=6252001%2C2635167%2C6251999%2C4566966&ref=levels.fyi
+775,https://logo.clearbit.com/Trulioo.com,Trulioo,Vancouver,Spring,2023,2633,,https://trulioo.applytojob.com/apply?ref=levels.fyi
+776,https://logo.clearbit.com/https:/www.byu.edu/,Brigham Young University,Provo UT,Summer,2023,2600,"No housing, no transportation. Option to continue part-time when school starts. ",https://yjobs.byu.edu/?ref=levels.fyi
+777,https://logo.clearbit.com/https:/www.ciena.com/,Ciena,Ottawa,Summer,2023,2600,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+778,https://logo.clearbit.com/ConsumerTrack.com,ConsumerTrack,El Segundo,Summer,2023,2600,                     QA                    ,https://www.consumertrack.com/join-our-team/?ref=levels.fyi
+779,https://logo.clearbit.com/https:/www.isis.vanderbilt.edu/,Institute for Software Integrated Systems,Nashville,Summer,2023,2600,,https://www.isis.vanderbilt.edu/jobs?ref=levels.fyi
+780,https://logo.clearbit.com/MacmillanLearning.com,Macmillan Learning,Austin,Summer,2023,2600,,https://recruiting.ultipro.com/HOL1002HPHM/JobBoard/be27b89b-3cb9-491f-a1b0-42f8b077a9dd/?q=intern&o=relevance&ref=levels.fyi
+781,https://logo.clearbit.com/https:/www.tql.com/,Total Quality Logistics,Cincinnati,Summer,2023,2600,"Swag, some wfh",https://careers.tql.com/us/en/search-results?keywords=intern&ref=levels.fyi
+782,https://logo.clearbit.com/VeteransUnited.com,Veterans United,Columbia,Summer,2023,2600,Corporate housing,https://careers.veteransunited.com/open-positions/?ref=levels.fyi
+783,https://i.imgur.com/T4CNXV8.png,Civiconnect,Niagara,Winter,2022,2499,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+784,https://i.imgur.com/dKYAyvO.png,MetroNet,Evansville,Summer,2023,2427,"Corporate housing, Weekly Lunch",https://recruiting2.ultipro.com/QSE1000QSER/JobBoard/6cf8d9f1-7140-4a4f-8dba-c15b5a2fafb0/?q=intern&o=relevance&w=&wc=&we=&wpst=&ref=levels.fyi
+785,https://i.imgur.com/HbGzjkK.png,Vü Speech,Buffalo,Spring,2022,2427,,https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+786,https://logo.clearbit.com/Rubrik.com,Rubrik,Bangalore,Winter,2022,2253,Work From Home setup,https://www.rubrik.com/en/company/careers/departments/university-talent.56313?ref=levels.fyi
+787,https://logo.clearbit.com/Rapid7.com,Rapid7,Dublin,Summer,2023,2080,"No housing, no transportation",https://www.rapid7.com/careers/jobs/?ref=levels.fyi
+788,https://logo.clearbit.com/https:/www.cam.ac.uk/,University of Cambridge,Cambridge,Summer,2023,1929,Free-coffee,https://www.jobs.cam.ac.uk/job/?ref=levels.fyi
+789,https://logo.clearbit.com/Farfetch.com,Farfetch,Porto,Summer,2023,1543,"No housing, no transportation, Udemy subscription",https://docs.google.com/forms/d/e/1FAIpQLSfiN2fyfdUUtLlWTDFxRkr_sPuRNhfNxFu0zGa6FkVcIQCbVA/viewform?usp=sf_link
+790,https://logo.clearbit.com/https:/www.webtures.com/,Webtures Dijital Bilişim,İstanbul,Fall,2023,1501,Remote Possible,https://www.webtures.com/careers/?ref=levels.fyi
+791,https://logo.clearbit.com/EDF.com,EDF,Paris,Winter,2023,1387,"$400 housing, $15 transportation, Free coffee",https://careers.edfenergy.com/search/?q=intern&q2=&alertId=&locationsearch=&title=intern&department=&location=&date=&facility=&ref=levels.fyi
+792,https://i.imgur.com/nwWg68V.png,Vector Informatik,Karlsruhe,Winter,2023,1200,,https://jobs.vector.com/global/our-jobs?jtype=&jloc=&jgrade=10&jcode=&ref=levels.fyi
+793,https://logo.clearbit.com/Nokia.com,Nokia,Budapest,Winter,2022,1040,,https://careers.nokia.com/jobs/search/30881070?ref=levels.fyi
+794,https://logo.clearbit.com/Pony.ai,Pony.ai,Beijing,Summer,2023,867,"Free snacks and drinks, 65 RMB lunch stipend, taxi after 9 pm.",https://app.mokahr.com/apply/pony/2736?ref=levels.fyi#/jobs?keyword=intern
+795,https://logo.clearbit.com/YANDEX.com,Yandex,Moscow,Spring,2023,832,"Corporate housing, All Yandex benefits except PTO and Health Insurance",https://yandex.com/jobs/vacancies?text=intern&ref=levels.fyi
+796,https://logo.clearbit.com/Flipkart.com,Flipkart,Bengaluru,Summer,2023,485,Received a lot of goodies. Great team environment,https://www.flipkartcareers.com/?ref=levels.fyi#!/joblist
+797,https://logo.clearbit.com/RSA.com,RSA,Bangalore,Fall,2023,340,,https://www.rsagroup.com/careers/?ref=levels.fyi
+798,https://logo.clearbit.com/Nodeberry.com,Nodeberry,Remote,Fall,2023,300,2 paid leaves allowed monthly,https://www.nodeberry.com/careers?ref=levels.fyi
+799,https://i.imgur.com/dCqt3H8.png,Railyatri,Noida,Fall,2023,260,,https://www.railyatri.in/career?position=Other+Roles&ref=levels.fyi
+800,https://i.imgur.com/vNfaW1Z.png,Digital Chef,Enschede,Spring,2023,179,$250 transportation,https://www.digitalchef.eu/en/careers?ref=levels.fyi
+801,https://logo.clearbit.com/https://gowebknot.com/,Webknot Technologies,Banglore,Winter,2022,173,,https://gowebknot.com/careers/?ref=levels.fyi
