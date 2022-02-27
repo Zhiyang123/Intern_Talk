@@ -1,2 +1,2 @@
 # Intern_Talk
-Telegram Chatbot designed to assist students looking for their first internship sourcing
+Telegram Chatbot designed to assist students sourcing for their internship
